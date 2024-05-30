@@ -8,6 +8,8 @@
       name="description"
       content="Premium Bootstrap 5 Landing Page Template"
     />
+    <!-- jquery for blog -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <meta
       name="keywords"
       content="Saas, Software, multi-uses, HTML, Clean, Modern"
@@ -49,6 +51,42 @@
       rel="stylesheet"
       type="text/css"
     />
+
+    <style>
+      .b-d-s-item {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 20px;
+        margin-bottom: 20px; /* Add margin at the bottom */
+      }
+
+      .b-d-s-item img {
+        max-width: 100%;
+        border-radius: 5px;
+        margin-bottom: 15px;
+      }
+
+      .b-d-s-item h3 {
+        margin: 0 0 10px;
+        color: black;
+      }
+
+      .b-d-s-item p {
+        margin: 0 0 10px;
+      }
+
+      .b-d-s-item a.read-more-link {
+        margin-top: auto;
+      }
+
+      .responsive-image {
+        width: 60%;
+        height: auto;
+      }
+    </style>
   </head>
 
   <body>
@@ -215,9 +253,293 @@
     <!--Shape End-->
     <!-- Start Contact -->
     <section class="section pt-5 mt-4">
-      <div class="text-center">
+      <div class="text-center pb-4">
         <h1>Latest Blogs</h1>
       </div>
+      <div class="article-content">
+        <!-- Blogs page here  -->
+        <div class="container">
+          <div id="blogDetails"></div>
+        </div>
+      </div>
+      <!-- Blogs page End here  -->
+
+      <!-- Related Post here -->
+      <div class="row p-5">
+        <div class="col-sm-6 pb-4">
+          <div class="b-d-s-item">
+            <a href="#" class="read-more-link" data-blog-id="1">
+              <img src="assets/images/blog-details/blog1.png" alt="Image" />
+              <h3>
+                Unveiling The Curtain: The Many Faces Of Fraud In The Retail
+                Sector
+              </h3>
+            </a>
+
+            <p>
+              In the bustling world of retail, where transactions are swift and
+              goods change hands constantly, the risk of fraudulent activities
+              lurks in the shadows. From small boutique stores to large chain
+              outlets, no retailer is immune to the threat of deceit from within
+              and without. Let’s delve into the various types of fraud that
+              plague the retail sector...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="1">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item mb-0">
+            <a href="#" class="read-more-link" data-blog-id="2">
+              <img src="assets/images/blog-details/blog2.png" alt="Image" />
+              <h3>
+                Unveiling The Shadows: Understanding Fraud In The Banking Sector
+              </h3>
+            </a>
+
+            <p>
+              In the intricate web of financial transactions, the banking sector
+              stands as a critical pillar of trust and security. However,
+              lurking beneath the surface are various forms of fraud that
+              threaten the integrity of financial institutions and erode the
+              trust of customers. Let’s explore the multifaceted landscape of
+              fraud in the banking sector...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="2">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item">
+            <a href="#" class="read-more-link" data-blog-id="3">
+              <img src="assets/images/blog-details/blog3.png" alt="Image" />
+              <h3>
+                Unveiling Deception: Exploring Fraud In The Jewellery Sector
+              </h3>
+            </a>
+
+            <p>
+              In the world of glimmering gemstones and exquisite craftsmanship,
+              the jewellery sector stands as a symbol of luxury and beauty.
+              However, beneath the sparkle lies a darker reality of fraud and
+              deception that threatens the integrity of this esteemed industry.
+              Let's delve into the various types of fraud plaguing the jewellery
+              sector...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="3">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item mb-0">
+            <a href="#" class="read-more-link" data-blog-id="4">
+              <img src="assets/images/blog-details/blog4.png" alt="Image" />
+              <h3>
+                Unmasking Deception: Understanding Fraud In The Manufacturing
+                Sector
+              </h3>
+            </a>
+
+            <p>
+              In the bustling realm of manufacturing, where innovation meets
+              production, the risk of fraudulent activities looms large,
+              threatening the integrity and sustainability of businesses. From
+              financial malfeasance to breaches in cybersecurity, let's unravel
+              the diverse array of frauds plaguing the manufacturing sector and
+              explore ...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="4">Read More</a>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item mb-0">
+            <a href="#" class="read-more-link" data-blog-id="5">
+              <img src="assets/images/blog-details/blog5.png" alt="Image" />
+              <h3>Unveiling Fraud In Healthcare: Safeguarding Patient Trust</h3>
+            </a>
+
+            <p>
+              Healthcare professionals may succumb to the allure of kickbacks
+              and bribes from pharmaceutical companies or medical device
+              manufacturers in exchange for prescribing specific medications or
+              services. Whistleblowers play a crucial role in exposing such
+              unethical practices to uphold patient welfare and professional
+              integrity...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="5">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item">
+            <a href="#" class="read-more-link" data-blog-id="6">
+              <img src="assets/images/blog-details/blog6.png" alt="Image" />
+              <h3>
+                Exposing Deception: Unravelling Fraud In The Insurance Sector
+              </h3>
+            </a>
+
+            <p>
+              In the complex landscape of insurance, where trust and reliability
+              are paramount, fraudulent activities pose a significant threat to
+              the integrity of the industry and the well-being of policyholders.
+              From premium theft to false advertising, let's delve into the
+              various forms of fraud plaguing the insurance sector...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="6">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item mb-0">
+            <a href="#" class="read-more-link" data-blog-id="7">
+              <img src="assets/images/blog-details/blog7.png" alt="Image" />
+              <h3>
+                Blog Details Home Blog Blog Details Unveiling Deception:
+                Exploring Fraud In The IT Sector
+              </h3>
+            </a>
+
+            <p>
+              In the fast-paced world of technology, where innovation and
+              efficiency reign supreme, fraudulent activities can pose
+              significant threats to the integrity and reputation of IT
+              organizations. From corruption to cybersecurity breaches, let's
+              delve into the various forms of fraud plaguing the IT sector...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="7">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item">
+            <a href="#" class="read-more-link" data-blog-id="8">
+              <img src="assets/images/blog-details/blog8.png" alt="Image" />
+              <h3>
+                Why A 'Whistleblowing System' Is Better Than Email As A
+                Mechanism For Whistleblowing Framework
+              </h3>
+            </a>
+
+            <p>
+              Whistleblowing systems often provide the option for employees to
+              report concerns anonymously or confidentially. This protects
+              whistleblowers from potential retaliation or backlash, allowing
+              them to speak up without fear of reprisal. In contrast, using
+              email may not always guarantee anonymity or confidentiality,
+              especially if the issue involves sensitive information or powerful
+              individuals within the organization...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="8">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item mb-0">
+            <a href="#" class="read-more-link" data-blog-id="9">
+              <img src="assets/images/blog-details/blog9.jpg" alt="Image" />
+              <h3>
+                Elevating Compliance: Unveiling The Crucial Role Of
+                Whistleblowing Channels
+              </h3>
+            </a>
+
+            <p>
+              Ensuring corporate compliance is a cornerstone of organizational
+              integrity. It not only safeguards against unlawful activities but
+              also nurtures a healthy internal environment by preventing issues
+              like discrimination or harassment. Remarkably, this is achievable
+              without compromising the confidentiality of personal data, thanks
+              to the introduction of whistleblowing channels...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="9">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item">
+            <a href="#" class="read-more-link" data-blog-id="10">
+              <img src="assets/images/blog-details/blog10.jpg" alt="Image" />
+              <h3>
+                Unleashing The Force Of Whistleblowing: Safeguarding Ethical
+                Standards In Start-Up Dynamics
+              </h3>
+            </a>
+
+            <p>
+              The contemporary business landscape has witnessed an upsurge in
+              start-up enterprises, reshaping industries and propelling the
+              trajectory of commerce into uncharted territories. Amidst the
+              boundless potential for growth and innovation, these budding
+              ventures grapple with distinctive challenges...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="10">Read More</a>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 pb-4">
+          <div class="b-d-s-item mb-0">
+            <a href="#" class="read-more-link" data-blog-id="11">
+              <img src="assets/images/blog-details/blog11.jpg" alt="Image" />
+              <h3>
+                Unveiling The Virtues Of Whistleblowing: A Closer Look At
+                Workplace Benefits
+              </h3>
+            </a>
+
+            <p>
+              Whistleblowers stand as societal watchdogs, illuminating the
+              shadows of corporate misdeeds and governmental malpractice.
+              However, their impact extends beyond societal accountability;
+              within organizations, whistleblowers emerge as invaluable assets.
+              By resolving internal issues before they cascade into media
+              fodder, whistleblowers...
+            </p>
+
+            <a href="#" class="read-more-link" data-blog-id="11">Read More</a>
+          </div>
+        </div>
+      </div>
+      <!-- related post end here -->
+
+      <div class="container mt-100 mt-60">
+        <div class="rounded bg-primary bg-gradient p-lg-5 p-4">
+          <div class="row align-items-end">
+            <div class="col-md-8">
+              <div class="section-title text-md-start text-center">
+                <h3 class="title mb-3 text-white title-dark">
+                  WANT TO KNOW MORE ABOUT WHISTLESENTINEL?
+                </h3>
+                <h4 class="text-white title-dark">
+                  Book a free demo of our system! 👉🏼
+                  <a
+                    class="text-black title-dark"
+                    href="https://calendly.com/whistlesentinel/demo-of-whistlesentinel?month=2024-04"
+                    >Book a free demo</a
+                  >
+                </h4>
+                <h4 class="text-white title-dark">
+                  Or call us at
+                  <a class="text-black title-dark" href="tel:+919867303707"
+                    >+91 9867303707</a
+                  >
+                  / email at
+                  <a
+                    class="text-black title-dark"
+                    href="mailto:sales@whistlesentinel.com"
+                    >sales@whistlesentinel.com</a
+                  >
+                </h4>
+              </div>
+            </div>
+            <!--end col-->
+          </div>
+          <!--end row-->
+        </div>
+      </div>
+      <!--end container-->
     </section>
     <!--end section-->
     <!-- Counter End -->
@@ -507,6 +829,73 @@
       ><i data-feather="arrow-up" class="fea icon-sm icons align-middle"></i
     ></a>
     <!-- Back to top -->
+
+    <!-- Blogs page logic here  -->
+    <script>
+      $(document).ready(function () {
+        var jsonData; // Variable to store JSON data
+
+        // Function to display blog content
+        function displayBlog(blog) {
+          console.log("blog consoled here ", blog);
+          var html = `
+        <div class="col-md-12">
+          <div class="blog-details-desc">
+            <div class="article-content">
+              <h3>${blog.title}</h3>
+              <div class="article-image py-4">
+                <img src="${blog.img}" alt="image" class="responsive-image" />
+              </div>
+              <p>${blog.about}</p>`;
+
+          // Loop through content items
+          blog.content.forEach(function (content) {
+            if (content.heading !== undefined) {
+              html += `
+            <div>
+              <h5 class="mb-2">${content.heading}</h5>
+            <p class="mb-4">${content.description}</p>
+            </div>`;
+            }
+          });
+          // Append conclusion if it exists
+          if (blog.conclusion1 || blog.conclusion2) {
+            if (blog.conclusion1) {
+              html += `<p>${blog.conclusion1}</p>`;
+            }
+            if (blog.conclusion2) {
+              html += `<p>${blog.conclusion2}</p>`;
+            }
+          }
+
+          html += `
+            </div>
+          </div>
+        </div>`;
+
+          // Append HTML to the blog details container
+          $("#blogDetails").html(html);
+        }
+
+        // Fetch data from JSON file
+        $.getJSON("blog.json", function (data) {
+          console.log("Data:", data);
+          jsonData = data; // Store JSON data
+        });
+
+        // Handle click event for "Read More" link
+        $(document).on("click", ".read-more-link", function (e) {
+          $("html, body").animate({ scrollTop: 350 }, "slow");
+          var blogId = $(this).data("blog-id"); // Get the blog ID from the data attribute
+          console.log("blog id E ------>>>", blogId);
+          console.log("json data  ------>>>", jsonData);
+          var selectedBlog = jsonData.find((blog) => blog.blog === blogId); // Find the selected blog in JSON data
+          console.log("selected blod is here ---->>>", selectedBlog);
+          displayBlog(selectedBlog); // Display the selected blog
+        });
+      });
+    </script>
+    <!-- blogs logic end here  -->
 
     <!-- JAVASCRIPT -->
     <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
