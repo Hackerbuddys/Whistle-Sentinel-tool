@@ -49,6 +49,144 @@
       rel="stylesheet"
       type="text/css"
     />
+
+    <style>
+      .heading {
+        text-align: center;
+        color: #000000;
+        padding-bottom: 3.5rem;
+        font-size: 4rem;
+      }
+      * {
+        font-family: "Roboto", sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        outline: none;
+        border: none;
+        text-decoration: none;
+        text-transform: capitalize;
+        transition: 0.2s linear;
+      }
+
+      .blogs {
+        padding: 2rem;
+      }
+
+      .blogs .heading {
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+
+      .blogs .box-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .blogs .box {
+        text-align: center;
+        border: 0.2rem solid #ccc;
+        padding: 2rem;
+        margin: 1rem;
+        width: 30%;
+        border-radius: 0.5rem;
+      }
+
+      .blogs .box:hover {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .blogs .box .image img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 0.5rem;
+        transition: transform 0.3s ease-in-out;
+        margin-bottom: 30px;
+      }
+
+      .blogs .box:hover .image img {
+        transform: scale(1.05);
+      }
+
+      .blogs .box .content .title {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 1rem;
+        display: block;
+        transition: color 0.3s ease-in-out;
+      }
+
+      #paginationButtons {
+        text-align: center;
+        margin-top: 2rem;
+      }
+
+      #paginationButtons button {
+        background-color: #d80650;
+        color: #fff;
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 0.5rem;
+        margin: 0 0.5rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease-in-out;
+      }
+
+      #paginationButtons button:hover {
+        background-color: #0e0129;
+      }
+
+      #paginationButtons button.active {
+        background-color: #000000;
+      }
+
+      @media (max-width: 768px) {
+        /* Reduce header padding */
+        .top-header-area {
+          padding: 1rem 0;
+        }
+
+        /* Reduce font size and padding in navbar */
+        .navbar-nav {
+          font-size: 14px;
+        }
+
+        /* Make blog boxes full width */
+        .blogs .box {
+          width: 100%;
+          margin: 1rem 0;
+        }
+
+        /* Adjust footer styles */
+        .footer-top-area {
+          padding: 70px 0 30px;
+        }
+
+        .footer-bottom-area {
+          padding: 20px 0;
+        }
+
+        .footer-top-area .row,
+        .footer-bottom-area .row {
+          flex-direction: column;
+        }
+      }
+      @media (max-width: 768px) {
+        #paginationButtons {
+          text-align: center;
+          margin-top: 2rem;
+        }
+
+        #paginationButtons button {
+          display: inline-block;
+          margin: 0.5rem;
+          padding: 0.5rem 1rem;
+          font-size: 14px;
+        }
+      }
+    </style>
   </head>
 
   <body>
@@ -217,8 +355,13 @@
     <!--Shape End-->
     <!-- Start Contact -->
     <section class="section pt-5 mt-4">
-      <div class="text-center">
-        <h1>Latest News Articles</h1>
+      <div class="container">
+        <div class="single-privacy">
+          <h3 class="mt-0 display-3">Latest News Articles</h3>
+
+          <div class="box-container" id="blogContainer"></div>
+          <div id="paginationButtons"></div>
+        </div>
       </div>
     </section>
     <!--end section-->
@@ -524,6 +667,124 @@
       ><i data-feather="arrow-up" class="fea icon-sm icons align-middle"></i
     ></a>
     <!-- Back to top -->
+
+    <!-- News mappinbg script here -->
+    <script>
+      const postsPerPage = 9; // Number of posts to display per page
+      const blogContainer = document.getElementById("blogContainer");
+      const paginationButtons = document.getElementById("paginationButtons");
+
+      // Fetch JSON data
+      fetch("article.json")
+        .then((response) => response.json())
+        .then((data) => {
+          let currentPage = 1;
+          console.log("data======================================>", data);
+          // Function to display posts for the current page
+          const displayPosts = () => {
+            blogContainer.innerHTML = "";
+
+            const startIndex = (currentPage - 1) * postsPerPage;
+            const endIndex = startIndex + postsPerPage;
+
+            data.sort(
+              (a, b) =>
+                new Date(parseDate(b.date)) - new Date(parseDate(a.date))
+            );
+
+            console.log("data consoled here------------->>>>>>>>>>>>>", data);
+
+            const currentPosts = data.slice(startIndex, endIndex);
+
+            currentPosts.forEach((item, index) => {
+              const blogBox = document.createElement("div");
+              blogBox.classList.add("box");
+
+              const imageDiv = document.createElement("div");
+              imageDiv.classList.add("image");
+              const img = document.createElement("img");
+              img.src = item.img;
+              img.alt = "";
+              imageDiv.appendChild(img);
+
+              const contentDiv = document.createElement("div");
+              contentDiv.classList.add("content");
+              const dateLink = document.createElement("a");
+              // dateLink.classList.add("date");
+              dateLink.textContent = item.date;
+              const titleLink = document.createElement("strong");
+              titleLink.classList.add("title");
+              titleLink.textContent = item.title;
+              const buttonDiv = document.createElement("div");
+              buttonDiv.classList.add("col-lg-12");
+              buttonDiv.classList.add("col-md-12");
+              buttonDiv.classList.add("d-flex");
+              buttonDiv.classList.add("justify-content-center");
+              const readMoreLink = document.createElement("a");
+              readMoreLink.classList.add("default-btn");
+              readMoreLink.classList.add("page-btn");
+              readMoreLink.textContent = "Read more";
+              readMoreLink.href = item.link;
+
+              contentDiv.appendChild(dateLink);
+              contentDiv.appendChild(titleLink);
+              contentDiv.appendChild(buttonDiv);
+              buttonDiv.appendChild(readMoreLink);
+              blogBox.appendChild(imageDiv);
+              blogBox.appendChild(contentDiv);
+
+              blogContainer.appendChild(blogBox);
+            });
+          };
+
+          const parseDate = (dateString) => {
+            const months = {
+              january: 0,
+              february: 1,
+              march: 2,
+              april: 3,
+              may: 4,
+              june: 5,
+              july: 6,
+              august: 7,
+              september: 8,
+              october: 9,
+              november: 10,
+              december: 11,
+            };
+            const dateParts = dateString.split(/[ ,|]+/);
+            const monthIndex = months[dateParts[1].toLowerCase()];
+            const day = parseInt(dateParts[0]);
+            const year = parseInt(dateParts[dateParts.length - 1]);
+            return new Date(year, monthIndex, day);
+          };
+
+          // Function to generate pagination buttons
+          const generatePaginationButtons = () => {
+            paginationButtons.innerHTML = "";
+            const numPages = Math.ceil(data.length / postsPerPage);
+            for (let i = 1; i <= numPages; i++) {
+              const button = document.createElement("button");
+              button.textContent = i;
+              button.addEventListener("click", () => {
+                window.scrollTo({ top: 380, behavior: "smooth" });
+                const buttons = paginationButtons.querySelectorAll("button");
+                buttons.forEach((btn) => {
+                  btn.classList.remove("active");
+                });
+                button.classList.add("active");
+                currentPage = i;
+                displayPosts();
+              });
+              paginationButtons.appendChild(button);
+            }
+          };
+
+          displayPosts();
+          generatePaginationButtons();
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+    </script>
 
     <!-- JAVASCRIPT -->
     <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
