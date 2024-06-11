@@ -1,517 +1,836 @@
 [
   {
-    "blog": 1,
-    "title": "Unveiling the Curtain: The Many Faces of Fraud in the Retail Sector",
-    "img": "assets/img/blog-details/blog1.png",
-    "about": "In the bustling world of retail, where transactions are swift and goods change hands constantly, the risk of fraudulent activities lurks in the shadows. From small boutique stores to large chain outlets, no retailer is immune to the threat of deceit from within and without. Let’s delve into the various types of fraud that plague the retail sector and how whistleblowers play a crucial role in unveiling these nefarious schemes.",
-    "conclusion1": "In conclusion, fraud poses a significant threat to the retail sector, impacting financial stability, consumer trust, and overall business integrity. Whistleblowers serve as guardians of transparency and accountability, playing a vital role in detecting and deterring fraudulent activities. By fostering a culture of vigilance and accountability, retailers can mitigate the risks posed by fraud and uphold the trust of their customers and stakeholders.",
-    "conclusion2": "Implementing a robust whistleblowing system like 'WhistleSentinel' can further bolster the efforts of retail sector organizations in combating fraud. WhistleSentinel provides a secure and anonymous platform for employees to report suspicions of fraudulent activities without fear of retaliation. By centralizing and streamlining the reporting process, WhistleSentinel enables swift investigation and response to potential fraud incidents, helping retailers to proactively address issues before they escalate. Additionally, WhistleSentinel offers advanced analytics capabilities to identify trends and patterns of fraudulent behavior, empowering retailers to implement targeted interventions and strengthen internal controls. With WhistleSentinel as a trusted ally, retail sector organizations can enhance their fraud detection and prevention efforts, safeguarding their reputation and financial well-being in an increasingly complex business landscape.",
-    "content": [
-      {
-        "heading": "Employee Theft of Stock or Cash",
-        "description": "This internal form of fraud occurs when employees betray the trust of their employers by pilfering merchandise, cash, or sensitive information. From skimming cash registers to stealing products, these actions not only result in direct financial losses but also erode the trust and integrity of the workplace."
-      },
-      {
-        "heading": "Inventory Shrinkage",
-        "description": "The mysterious disappearance of inventory, whether due to theft, damage, or administrative errors, poses a significant challenge for retailers. Whistleblowers play a vital role in detecting unusual inventory fluctuations and ensuring accountability in inventory management practices."
-      },
-      {
-        "heading": "Price Tag Switching Fraud",
-        "description": "Fraudsters employ tactics like switching price tags or creating fake barcodes to dupe store staff and purchase high-value items at a fraction of their cost. Vigilant whistleblowers can help identify irregularities in pricing and prevent revenue loss due to fraudulent transactions."
-      },
-      {
-        "heading": "Chargeback Guarantee Fraud",
-        "description": "Exploiting chargeback policies, fraudsters claim refunds for goods they allegedly never received or deem defective, thus profiting from the system at the expense of retailers. Whistleblowers are essential in identifying patterns of abuse and safeguarding against financial losses."
-      },
-      {
-        "heading": "Embezzlement of Cash",
-        "description": "Through falsified invoices, diverted payments, or fictitious vendors, employees may embezzle funds, causing significant financial harm to retailers. Whistleblowers play a critical role in uncovering discrepancies in financial records and exposing fraudulent activities."
-      },
-      {
-        "heading": "Vendor Fraud",
-        "description": "Collusion between employees and vendors can lead to inflated prices, fake invoices, or kickbacks, undermining the integrity of procurement processes. Whistleblowers are instrumental in detecting suspicious vendor relationships and preserving the fairness of transactions."
-      },
-      {
-        "heading": "Data Breaches",
-        "description": "The unauthorized access or breach of customer data by employees poses a grave threat to consumer privacy and trust. Whistleblowers play a pivotal role in reporting breaches and ensuring the implementation of robust data security measures."
-      },
-      {
-        "heading": "Return Frauds",
-        "description": "Employees may abuse return policies to illicitly obtain refunds or products, causing financial losses and distorting inventory records. Whistleblowers help identify fraudulent return activities and uphold the integrity of the return process."
-      },
-      {
-        "heading": "Money Laundering",
-        "description": "Retail businesses may unwittingly become conduits for money laundering activities, where illicit funds are laundered through seemingly legitimate transactions. Whistleblowers play a crucial role in identifying suspicious financial transactions and preventing retail establishments from becoming complicit in illegal activities."
-      },
-      {
-        "heading": "Coupon Frauds",
-        "description": "Misuse of coupons, whether through counterfeiting or exploiting expired coupons, undermines the integrity of promotional offers and results in revenue loss for retailers. Whistleblowers aid in identifying instances of coupon fraud and maintaining fairness in promotional activities."
-      },
-      {
-        "heading": "Collusion With External Parties",
-        "description": "Collusion between employees and external parties, such as suppliers or service providers, can lead to inflated invoices or bid rigging, compromising the integrity of procurement processes. Whistleblowers help expose unethical relationships and ensure transparency in business dealings."
-      },
-      {
-        "heading": "Online Frauds",
-        "description": "In the digital age, employees with access to online platforms may engage in various forms of fraud, from manipulating reviews to conducting fraudulent transactions. Whistleblowers play a crucial role in monitoring online activities and safeguarding against online fraud schemes."
-      }
-    ]
+    "count": "138",
+    "date": "26 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2022/11/IMG_2775-640x375.jpg",
+    "title": "Senator Grassley Calls for More Information on SEC Whistleblower Program",
+    "link": "https://whistleblowersblog.org/corporate-whistleblowers/sec-whistleblowers/senator-grassley-calls-for-more-information-on-sec-whistleblower-program/amp/"
   },
   {
-    "blog": 2,
-    "title": "Unveiling the Shadows: Understanding Fraud in the Banking Sector",
-    "img": "assets/img/blog-details/blog2.png",
-    "about": "In the intricate web of financial transactions, the banking sector stands as a critical pillar of trust and security. However, lurking beneath the surface are various forms of fraud that threaten the integrity of financial institutions and erode the trust of customers. Let’s explore the multifaceted landscape of fraud in the banking sector and how whistleblowers play a pivotal role in combating these illicit activities.",
-    "conclusion1": "In the fight against banking fraud, whistleblowers serve as guardians of integrity and accountability. Implementing a robust whistleblowing system like 'WhistleSentinel' empowers employees to report suspicions of fraudulent activities anonymously and without fear of retaliation. WhistleSentinel provides a secure platform for whistleblowers to disclose fraudulent activities, enabling banks to investigate and address issues promptly. With WhistleSentinel as a trusted ally, banks can strengthen their internal controls, safeguard customer assets, and uphold the trust and confidence of the public in the banking system.",
-    "content": [
-      {
-        "heading": "Transaction Reversal by Tellers",
-        "description": "Fraudsters within the bank may reverse legitimate transactions, siphoning funds from vulnerable accounts. This deceit targets unsuspecting customers and poses a significant risk to their financial security."
-      },
-      {
-        "heading": "Account Manipulation",
-        "description": "Bank employees may manipulate account charges, interest rates, or credit limits for personal gain, compromising the bank's profitability and integrity. Whistleblowers are essential in detecting and reporting suspicious account activities."
-      },
-      {
-        "heading": "Insider Trading",
-        "description": "Employees with access to confidential information may engage in insider trading, leveraging privileged insights for personal financial gain. Whistleblowers play a crucial role in identifying and reporting instances of insider trading."
-      },
-      {
-        "heading": "Money Laundering",
-        "description": "Banks can unwittingly become conduits for money laundering activities, where illicit funds are laundered through seemingly legitimate transactions. Whistleblowers are instrumental in identifying suspicious transactions indicative of money laundering schemes."
-      },
-      {
-        "heading": "Forgery & Counterfeiting",
-        "description": "Bank employees may engage in forgery or counterfeiting of documents, checks, or currency, perpetrating fraud against the bank and its customers. Whistleblowers play a vital role in exposing instances of forged documents or counterfeit currency."
-      },
-      {
-        "heading": "Unauthorized Loans",
-        "description": "Bank heads may abuse their authority by approving loans without proper due diligence or in violation of lending policies, risking financial losses and conflicts of interest. Whistleblowers can report instances of unauthorized loans and conflicts of interest in lending practices."
-      },
-      {
-        "heading": "Account Takeover",
-        "description": "Fraudulent bank employees may gain access to dormant accounts and carry out unauthorized transactions, jeopardizing the financial security of customers. Whistleblowers are crucial in identifying and reporting instances of account takeover activities."
-      },
-      {
-        "heading": "General Ledger Fraud",
-        "description": "Employees may fabricate transactions through fake companies and bills, exploiting loopholes in the general ledger to embezzle funds from the bank. Whistleblowers play a crucial role in detecting and reporting general ledger fraud activities."
-      },
-      {
-        "heading": "Loan Applications Fraud",
-        "description": "Bank employees may manipulate loan applications or falsify documents for personal gain, leading to financial losses for the bank and unfair treatment of borrowers. Whistleblowers are essential in identifying instances of loan fraud and irregularities in the loan approval process."
-      },
-      {
-        "heading": "Violations in Private Banking",
-        "description": "Violations of the four-eyes policy in private banking can result in unauthorized transactions and breaches of compliance standards. Whistleblowers help ensure adherence to internal controls and prevent fraudulent activities."
-      },
-      {
-        "heading": "Internal Collusion",
-        "description": "Collusion between employees from different departments may facilitate complex fraud schemes within the bank. Whistleblowers play a crucial role in uncovering multi-people fraud and holding perpetrators accountable."
-      },
-      {
-        "heading": "Data Theft",
-        "description": "Bank employees may compromise customer data for personal gain, posing a severe threat to customer privacy and security. Whistleblowers are instrumental in reporting breaches of data security protocols and unauthorized access to customer information."
-      }
-    ]
+    "count": "137",
+    "date": "17 April 2024",
+    "img": "https://media.cnn.com/api/v1/images/stellar/prod/2024-04-17t153157z-2027666068-rc2b87ajvoo6-rtrmadp-3-boeing-737max-hearing.JPG?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+    "title": "Boeing whistleblower: They are putting out defective airplanes",
+    "link": "https://www.cnn.com/2024/04/17/business/boeing-whistleblower-safety-hearing/index.html"
   },
   {
-    "blog": 3,
-    "title": "Unveiling Deception: Exploring Fraud in the Jewellery Sector",
-    "img": "assets/img/blog-details/blog3.png",
-    "about": "In the world of glimmering gemstones and exquisite craftsmanship, the jewellery sector stands as a symbol of luxury and beauty. However, beneath the sparkle lies a darker reality of fraud and deception that threatens the integrity of this esteemed industry. Let's delve into the various types of fraud plaguing the jewellery sector and how whistleblowers can play a crucial role in safeguarding consumers and upholding industry standards.",
-    "conclusion1": "In conclusion, whistleblowers serve as guardians of integrity and transparency in the jewellery sector, helping to uncover fraudulent activities and protect consumers. Implementing a robust whistleblowing system like 'WhistleSentinel' empowers employees to report suspicions of fraud anonymously and without fear of retaliation. WhistleSentinel provides a secure platform for whistleblowers to disclose fraudulent activities, enabling jewellery sector organisations to investigate and address issues promptly. With WhistleSentinel as a trusted ally, jewellery companies can strengthen their internal controls, safeguard consumer trust, and uphold the integrity of the industry.",
-    "content": [
-      {
-        "heading": "Online Auction Frauds",
-        "description": "The proliferation of online marketplaces has given rise to instances of fraud where sellers deceive buyers about the quality or authenticity of jewellery items. Whistleblowers can help protect consumers by reporting fraudulent listings or deceptive practices observed on online platforms."
-      },
-      {
-        "heading": "Misrepresentation of Origin or Heritage",
-        "description": "Some jewellers have been accused of falsely representing the origin or heritage of jewellery items to inflate their value. Whistleblowers can prevent consumer deception by reporting false claims regarding the provenance of jewellery items."
-      },
-      {
-        "heading": "Misrepresentation of Materials",
-        "description": "Employees may misrepresent the materials used in jewellery items, such as falsely claiming items are made of precious metals or gemstones. Whistleblowers play a vital role in reporting doubts about the authenticity or quality of materials used in jewellery items."
-      },
-      {
-        "heading": "Collusion with Suppliers",
-        "description": "Collusion between employees and suppliers can lead to inflated prices, fake invoices, or kickbacks, compromising the integrity of transactions. Whistleblowers can report suspicious vendor relationships or transactions suggestive of collusion."
-      },
-      {
-        "heading": "Jewellery Swapping Scams",
-        "description": "Customers have reported instances where jewellery left for repair or cleaning was returned with inferior gemstones substituted for genuine ones. Whistleblowers can help uncover such scams, which often involve collusion between employees and may go undetected without vigilant oversight."
-      },
-      {
-        "heading": "Gold and Metal Theft",
-        "description": "Employees may steal precious metals from inventory or scrap materials for personal gain. Whistleblowers can report suspicious inventory discrepancies or instances of missing precious metals."
-      },
-      {
-        "heading": "Diamond Substitution",
-        "description": "Employees may substitute lower-grade or synthetic diamonds for higher-quality ones without the customer's knowledge. Whistleblowers can report instances of diamond substitution or discrepancies in diamond certifications."
-      },
-      {
-        "heading": "Forgery of Certificates",
-        "description": "Forgery of certificates of authenticity or grading reports misleads customers about the quality or origin of jewellery items. Whistleblowers can report instances of fraudulent certificates or discrepancies in documentation."
-      },
-      {
-        "heading": "Counterfeit Products",
-        "description": "Employees may knowingly sell counterfeit jewellery as genuine products to unsuspecting customers. Whistleblowers can report suspicions about the authenticity of jewellery items or instances of counterfeit products being sold."
-      },
-      {
-        "heading": "Inventory Fraud",
-        "description": "Employees may engage in inventory fraud by misreporting inventory levels or manipulating records to conceal theft. Whistleblowers can report discrepancies in inventory records or suspicious inventory management practices."
-      },
-      {
-        "heading": "Financial Irregularities",
-        "description": "Foreign collaborations may expose jewellery companies to financial irregularities such as embezzlement or money laundering. Whistleblowers can report suspicious financial transactions related to foreign collaborations."
-      },
-      {
-        "heading": "Non-Compliance with Regulation",
-        "description": "Collaborating with foreign partners may lead to regulatory compliance risks such as violations of labour laws or environmental regulations. Whistleblowers can report instances of non-compliance with regulations in foreign collaborations."
-      },
-      {
-        "heading": "Foreign Collaboration Bribery/Corruption",
-        "description": "Bribery or corruption in foreign collaborations can jeopardize the integrity of jewellery companies. Whistleblowers can report instances of bribery or corruption involving foreign collaborations."
-      },
-      {
-        "heading": "Intellectual Property Theft",
-        "description": "Collaborating with foreign partners may expose jewellery companies to the risk of intellectual property theft. Whistleblowers can report instances of intellectual property theft to protect the interests of the company."
-      }
-    ]
+    "count": "136",
+    "date": "05 December 2023",
+    "img": "https://img.etimg.com/thumb/msid-105740392,width-650,height-488,imgsize-63994,resizemode-75/mark-zuckerberg.jpg",
+    "title": "Whistleblower allegation: Harvard muzzled disinformation team after $500 million Mark Zuckerberg donation",
+    "link": "https://m.economictimes.com/tech/technology/whistleblower-allegation-harvard-muzzled-disinformation-team-after-500-million-mark-zuckerberg-donation/articleshow/105740180.cms"
   },
   {
-    "blog": 4,
-    "title": "Unmasking Deception: Understanding Fraud in the Manufacturing Sector",
-    "img": "assets/img/blog-details/blog4.png",
-    "about": "In the bustling realm of manufacturing, where innovation meets production, the risk of fraudulent activities looms large, threatening the integrity and sustainability of businesses. From financial malfeasance to breaches in cybersecurity, let's unravel the diverse array of frauds plaguing the manufacturing sector and explore the role of whistleblowing in mitigating these risks.",
-    "conclusion1": "In conclusion, whistleblowers serve as guardians of integrity and accountability in the manufacturing sector, playing a pivotal role in detecting and deterring fraudulent activities. Implementing a robust whistleblowing system like 'WhistleSentinel' empowers employees to report suspicions of fraud anonymously and without fear of retaliation. WhistleSentinel provides a secure platform for whistleblowers to disclose fraudulent activities, enabling manufacturing companies to investigate and address issues promptly. With WhistleSentinel as a trusted ally, manufacturing sector organizations can strengthen their internal controls, safeguard financial resources, and uphold ethical standards, thereby fostering sustainable growth and trust in the industry.",
-    "content": [
-      {
-        "heading": "Corruption",
-        "description": "Corruption, including bribery and economic extortion, undermines the ethical fabric of manufacturing companies, eroding trust and distorting fair competition."
-      },
-      {
-        "heading": "Billing Scams",
-        "description": "Billing ploys, such as submitting inflated invoices or invoices for fictitious goods, siphon funds from manufacturing companies, impacting their financial health and credibility."
-      },
-      {
-        "heading": "Noncash Theft",
-        "description": "Theft of valuable assets like inventory and equipment poses a significant challenge for manufacturing companies, leading to operational disruptions and financial losses."
-      },
-      {
-        "heading": "Cyber Security Breach",
-        "description": "Manufacturing companies face increasing vulnerability to cyberattacks, compromising data security, disrupting operations, and tarnishing reputations. Whistleblowers can help detect and prevent cyber threats by reporting suspicious activities."
-      },
-      {
-        "heading": "Insider Trading",
-        "description": "Employees engaging in insider trading exploit confidential information for personal gain, violating regulatory norms and undermining investor trust."
-      },
-      {
-        "heading": "Supply Chain Fraud",
-        "description": "Collusion with suppliers or subcontractors to inflate prices or submit fake invoices disrupts supply chain integrity, leading to financial losses and reputational damage."
-      },
-      {
-        "heading": "Intellectual Property Theft",
-        "description": "Theft of intellectual property jeopardizes innovation and competitiveness, necessitating vigilant monitoring and reporting by whistleblowers."
-      },
-      {
-        "heading": "Environmental Violation",
-        "description": "Non-compliance with environmental regulations endangers ecosystems and communities, inviting legal penalties and reputational harm for manufacturing companies."
-      },
-      {
-        "heading": "Tax Evasion and Financial Fraud",
-        "description": "Financial mismanagement, including tax evasion and financial fraud, erodes shareholder confidence and invites regulatory scrutiny."
-      },
-      {
-        "heading": "Falsification of Testing Data",
-        "description": "Falsifying testing data compromises product quality and safety standards, endangering consumer welfare and brand reputation."
-      },
-      {
-        "heading": "Product Quality Performance",
-        "description": "Compromising product quality for short-term gains jeopardizes consumer trust and invites regulatory sanctions."
-      },
-      {
-        "heading": "Procurement Frauds",
-        "description": "Kickback schemes and inflated procurement prices drain resources and undermine procurement integrity, necessitating whistleblowing vigilance."
-      },
-      {
-        "heading": "Fraudulent Financial Reporting",
-        "description": "Manipulating financial statements deceives stakeholders and invites legal repercussions, highlighting the importance of whistleblowers in exposing financial misconduct."
-      },
-      {
-        "heading": "Health and Safety Violation",
-        "description": "Ignoring health and safety regulations jeopardizes employee welfare and invites regulatory fines and legal liabilities."
-      },
-      {
-        "heading": "Waste and Scrap Fraud",
-        "description": "Misreporting waste and scrap materials impacts production costs and profitability, requiring whistleblowers to expose such fraudulent practices."
-      },
-      {
-        "heading": "Collusion with External Parties",
-        "description": "Colluding with external parties for personal gain undermines corporate integrity and necessitates whistleblowers' intervention to uphold ethical standards."
-      },
-      {
-        "heading": "Violation of Labour Law",
-        "description": "Non-compliance with labour laws compromises employee rights and invites legal liabilities, underscoring the importance of whistleblowers in safeguarding labour rights."
-      },
-      {
-        "heading": "Production Frauds",
-        "description": "Deviation from production standards compromises product quality and operational efficiency, highlighting the role of whistleblowers in ensuring adherence to best practices."
-      }
-    ]
+    "count": "135",
+    "date": "17 April 2024",
+    "img": "https://img.etimg.com/thumb/msid-109362800,width-300,height-225,imgsize-15238,resizemode-75/whistleblower-alleges-un-cover-up-of-special-favours-for-china-ahead-of-uks-foreign-affairs-committee-inquiry.jpg",
+    "title": "China accused of influencing votes at UN to serve its interests, whistleblower claims",
+    "link": "https://m.economictimes.com/news/international/world-news/china-accused-of-influencing-votes-at-un-to-serve-its-interests-whistleblower-claims/articleshow/109361897.cms"
   },
   {
-    "blog": 5,
-    "title": "Unveiling Fraud in Healthcare: Safeguarding Patient Trust",
-    "img": "assets/img/blog-details/blog5.png",
-    "about": "",
-    "conclusion1": "In conclusion, whistleblowing serves as a cornerstone of accountability and transparency in the healthcare sector, empowering employees to speak out against fraud, misconduct, and patient harm. Implementing a robust whistleblowing system like 'WhistleSentinel' enables healthcare organizations to detect and address fraudulent activities promptly, thereby safeguarding patient trust and upholding ethical standards. WhistleSentinel provides a confidential platform for whistleblowers to report concerns without fear of retaliation, fostering a culture of integrity and accountability within healthcare organizations. With WhistleSentinel's support, healthcare sector organizations can enhance patient safety, protect healthcare resources, and preserve the trust and confidence of patients and stakeholders alike.",
-    "content": [
-      {
-        "heading": "Kickbacks and Bribery",
-        "description": "Healthcare professionals may succumb to the allure of kickbacks and bribes from pharmaceutical companies or medical device manufacturers in exchange for prescribing specific medications or services. Whistleblowers play a crucial role in exposing such unethical practices to uphold patient welfare and professional integrity."
-      },
-      {
-        "heading": "Billing Frauds",
-        "description": "Billing frauds, including false claims submission and upcoding, undermine the financial integrity of healthcare systems and erode public trust. Whistleblowers can help combat billing fraud by reporting instances of fraudulent billing practices to regulatory authorities."
-      },
-      {
-        "heading": "Ghost Patients",
-        "description": "Fictitious patients or deceased individuals' identities may be exploited to fabricate healthcare claims, leading to financial losses and compromised patient care. Whistleblowers are instrumental in identifying and reporting instances of ghost patient fraud to prevent further misuse of healthcare resources."
-      },
-      {
-        "heading": "Misrepresentation of Qualification",
-        "description": "Misrepresentation of qualifications by healthcare professionals jeopardizes patient safety and undermines trust in the healthcare system. Whistleblowers can expose instances of credential fraud to ensure that patients receive care from qualified and competent providers."
-      },
-      {
-        "heading": "Patients Privacy Violations",
-        "description": "Breaches of patient privacy and identity theft pose significant risks to patient confidentiality and trust. Whistleblowers can play a vital role in reporting violations of patient privacy laws and safeguarding sensitive medical information from unauthorized access or misuse."
-      },
-      {
-        "heading": "Violation of Anti-Kickback Laws",
-        "description": "Violations of laws prohibiting kickbacks and financial arrangements that influence medical decisions compromise patient care and ethical standards. Whistleblowers can report instances of illegal financial arrangements to prevent conflicts of interest and ensure patient-centered care."
-      },
-      {
-        "heading": "Drug Diversion",
-        "description": "Drug diversion by healthcare professionals threatens patient safety and contributes to the opioid epidemic. Whistleblowers can report suspicious activities related to medication theft or unauthorized access to medication storage areas, thereby preventing drug diversion and protecting patient welfare."
-      },
-      {
-        "heading": "Patients Abuse and Neglect",
-        "description": "Instances of patient abuse, neglect, or mistreatment undermine the fundamental principles of healthcare ethics and human dignity. Whistleblowers who witness patient mistreatment or inadequate care can speak up to ensure that patients receive the respect and quality of care they deserve."
-      }
-    ]
+    "count": "134",
+    "date": "17 June 2021",
+    "img": "https://whistleblowergov.org/news/187-university-of-miami.jpg",
+    "title": "The University of Miami Forced to Pay Millions in Medicare Fraud Case Following Whistleblower Report",
+    "link": "https://www.whistleblowergov.org/healthcare-and-pharma.php?article=the-university-of-miami-forced-to-pay-millions-in-medicare-fraud-case-following-whistleblower-report_187#navbar"
   },
   {
-    "blog": 6,
-    "title": "Exposing Deception: Unravelling Fraud in the Insurance Sector",
-    "img": "assets/img/blog-details/blog6.png",
-    "about": "In the complex landscape of insurance, where trust and reliability are paramount, fraudulent activities pose a significant threat to the integrity of the industry and the well-being of policyholders. From premium theft to false advertising, let's delve into the various forms of fraud plaguing the insurance sector and explore the pivotal role of whistleblowing in combating such malpractices.",
-    "conclusion1": "In conclusion, whistleblowing serves as a vital mechanism for uncovering and addressing fraudulent activities in the insurance sector. Implementing a robust whistleblowing system like 'WhistleSentinel' empowers employees to report suspicions of fraud anonymously and without fear of retaliation. WhistleSentinel provides a confidential platform for whistleblowers to disclose fraudulent activities, enabling insurance organizations to investigate and address issues promptly. With WhistleSentinel's support, insurance sector organizations can enhance consumer protection, uphold regulatory compliance, and preserve trust and confidence in the insurance industry.",
-    "content": [
-      {
-        "heading": "Theft of Premium",
-        "description": "Insurance agents or employees may unlawfully pocket premium payments collected from policyholders, leaving them without coverage. Whistleblowers play a crucial role in reporting irregularities in premium processing to ensure transparency and accountability."
-      },
-      {
-        "heading": "Unlicensed and Unauthorized Activity",
-        "description": "Engaging in insurance activities without proper licensure or authorization compromises consumer protection and regulatory compliance. Whistleblowers can report instances of unlicensed insurance activities to regulatory authorities for enforcement action."
-      },
-      {
-        "heading": "False Advertising or Marketing Practice",
-        "description": "Deceptive advertising misleads consumers about policy benefits, coverage options, or premium rates. Whistleblowers can expose deceptive marketing practices to safeguard consumer interests and uphold fair business practices."
-      },
-      {
-        "heading": "Insider Trading",
-        "description": "Insider trading by insurance company insiders undermines market integrity and investor trust. Whistleblowers can report instances of insider trading to regulatory agencies to prevent market manipulation and ensure a level playing field for investors."
-      },
-      {
-        "heading": "Policy Churning",
-        "description": "Persuading policyholders to switch policies for the sole purpose of generating commissions is unethical and detrimental to consumers. Whistleblowers can identify patterns of policy churning and report them to regulatory authorities to protect policyholders from unnecessary financial burdens."
-      },
-      {
-        "heading": "Premium Diversion",
-        "description": "Embezzling insurance premiums for personal gain jeopardizes the financial stability of insurance companies and undermines policyholder trust. Whistleblowers can report instances of premium diversion to prevent financial losses and ensure accountability within insurance organizations."
-      },
-      {
-        "heading": "False Financial Reporting",
-        "description": "Manipulating financial statements to misrepresent the financial health of insurance companies deceives investors and regulators. Whistleblowers can expose false financial reporting to uphold transparency and prevent investor harm."
-      },
-      {
-        "heading": "Claims Frauds",
-        "description": "Processing false or exaggerated claims for insurance benefits exploits the system and undermines the integrity of insurance operations. Whistleblowers can report suspicious claims to prevent fraud and protect the interests of honest policyholders."
-      }
-    ]
+    "count": "133",
+    "date": "10 April 2024",
+    "img": "https://static.independent.co.uk/2024/04/10/03/US_Congress-Boeing_Safety_Inquiry_53478.jpg?quality=75&width=640&auto=webp",
+    "title": "New Boeing whistleblower breaks silence about crucial flaws in 787 Dreamliner",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/dreamliner-boeing-whistlebower-hearing-allegations-b2526408.html"
   },
   {
-    "blog": 7,
-    "title": "Unveiling Deception: Exploring Fraud in the IT Sector",
-    "img": "assets/img/blog-details/blog7.png",
-    "about": "In the fast-paced world of technology, where innovation and efficiency reign supreme, fraudulent activities can pose significant threats to the integrity and reputation of IT organizations. From corruption to cybersecurity breaches, let's delve into the various forms of fraud plaguing the IT sector and explore the pivotal role of whistleblowing in combating such malpractices.",
-    "conclusion1": "In conclusion, whistleblowing serves as a vital mechanism for uncovering and addressing fraudulent activities in the IT sector. Implementing a robust whistleblowing system like 'WhistleSentinel' empowers employees to report suspicions of fraud anonymously and without fear of retaliation. WhistleSentinel provides a confidential platform for whistleblowers to disclose fraudulent activities, enabling IT organizations to investigate and address issues promptly. With WhistleSentinel's support, IT sector organizations can enhance transparency, uphold ethical standards, and safeguard their reputation in the dynamic landscape of technology.",
-    "content": [
-      {
-        "heading": "Corruption",
-        "description": "Collusion among parties to commit fraud against an organization undermines trust and ethical standards. Whistleblowers play a crucial role in exposing corrupt practices within the IT sector, ensuring transparency and accountability."
-      },
-      {
-        "heading": "Conflicts of Interest",
-        "description": "Personal or financial relationships that influence decision-making can lead to biased procurement decisions or unfair competitive advantages. Whistleblowers can report conflicts of interest to prevent unethical conduct and maintain fairness in business dealings."
-      },
-      {
-        "heading": "Bribery",
-        "description": "Offering or soliciting bribes to influence decision-makers compromises the integrity of IT operations. Whistleblowers who uncover instances of bribery can help root out corrupt practices and uphold ethical standards within the IT sector."
-      },
-      {
-        "heading": "Illegal Gratuities",
-        "description": "Providing unauthorized gifts or benefits to gain favor undermines fair competition and transparency. Whistleblowers can expose instances of illegal gratuities to prevent undue influence and maintain integrity in business relationships."
-      },
-      {
-        "heading": "Economic Extortion",
-        "description": "Threats or coercion for financial gain disrupts the ethical fabric of the IT sector. Whistleblowers who uncover economic extortion can protect organizations from exploitation and preserve trust among stakeholders."
-      },
-      {
-        "heading": "Asset Management Fraud",
-        "description": "Misappropriation or misuse of company assets for personal gain erodes trust and financial stability. Whistleblowers can report asset management fraud to prevent losses and uphold responsible stewardship of resources."
-      },
-      {
-        "heading": "Financial Statement Fraud",
-        "description": "Manipulation of financial statements deceives investors and regulators, leading to financial instability. Whistleblowers who identify financial statement fraud can safeguard investor interests and ensure transparency in reporting."
-      },
-      {
-        "heading": "Non-Compliance Regulation",
-        "description": "Failure to adhere to IT regulations and industry standards exposes organizations to legal and reputational risks. Whistleblowers who identify non-compliance issues can help organizations address regulatory concerns and foster a culture of compliance."
-      },
-      {
-        "heading": "Cyber Security Frauds",
-        "description": "Cybersecurity incidents pose grave threats to data security and operational continuity. Whistleblowers who detect cybersecurity frauds can help organizations bolster their defenses and mitigate cyber risks effectively."
-      },
-      {
-        "heading": "Emerging Technologies Risks",
-        "description": "Identifying risks associated with emerging technologies is crucial for responsible innovation. Whistleblowers can raise concerns about ethical implications or misuse of new technologies, guiding organizations toward responsible adoption and risk management."
-      }
-    ]
+    "count": "102",
+    "date": "20 September 2022",
+    "img": "https://www.theepochtimes.com/_next/image?url=https%3A%2F%2Fimg.theepochtimes.com%2Fassets%2Fuploads%2F2022%2F05%2F25%2FGettyImages-1219108050-700x420.jpg&w=1200&q=100",
+    "title": "FBI 'Overstates' Domestic Violent Extremism Threat, Removes Agents From Child Abuse Cases: New Whistleblower",
+    "link": "https://www.theepochtimes.com/us/fbi-overstates-domestic-violent-extremism-threat-removes-agents-from-child-abuse-cases-new-whistleblower-4741803"
   },
   {
-    "blog": 8,
-    "title": "Why a 'Whistleblowing System' is Better Than Email as a Mechanism for Whistleblowing Framework",
-    "img": "assets/img/blog-details/blog8.png",
-    "about": "A whistleblowing system offers several advantages over using email as a reporting mechanism for addressing serious concerns within an organization:",
-    "conclusion1": "Overall, while email can be a useful tool for routine communication and feedback, a dedicated whistleblowing system offers distinct advantages for addressing serious concerns within an organization, including confidentiality, specialized handling, legal protections, enhanced transparency, and a focus on serious issues.",
-    "content": [
-      {
-        "heading": "Confidentiality and Anonymity",
-        "description": "Whistleblowing systems often provide the option for employees to report concerns anonymously or confidentially. This protects whistleblowers from potential retaliation or backlash, allowing them to speak up without fear of reprisal. In contrast, using email may not always guarantee anonymity or confidentiality, especially if the issue involves sensitive information or powerful individuals within the organization."
-      },
-      {
-        "heading": "Specialized Handling",
-        "description": "Whistleblowing systems are specifically designed to handle reports of serious misconduct or ethical violations. They typically involve dedicated channels or personnel trained to handle sensitive issues, ensuring that reports are properly documented, investigated, and addressed. In contrast, using email as a reporting mechanism may result in concerns being directed to the wrong department or overlooked amidst other messages."
-      },
-      {
-        "heading": "Legal Protections",
-        "description": "Many jurisdictions have laws and regulations in place to protect whistleblowers from retaliation for reporting wrongdoing. Whistleblowing systems are often designed to comply with these legal requirements, providing additional protections for employees who come forward with concerns. Email reporting mechanisms may not offer the same level of legal protections or safeguards against retaliation."
-      },
-      {
-        "heading": "Enhanced Transparency and Accountability",
-        "description": "Whistleblowing systems contribute to greater transparency and accountability within organizations by providing a formal process for addressing serious concerns. This can help prevent unethical behavior, foster a culture of integrity, and demonstrate a commitment to ethical standards. In contrast, relying solely on email for reporting may lack the structure and oversight necessary to ensure that reported issues are properly addressed and resolved."
-      },
-      {
-        "heading": "Focus on Serious Issues",
-        "description": "By providing a dedicated platform for reporting serious misconduct or ethical violations, whistleblowing systems help ensure that attention is directed toward the most critical issues facing the organization. This can lead to more timely and effective responses to potential threats or risks. In contrast, using email as a mechanism for reporting may result in a flood of messages, making it difficult to prioritize and address the most pressing concerns."
-      }
-    ]
+    "count": "102",
+    "date": "16 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/1920x1080.jpg",
+    "title": "Webinar to Highlight New DOJ Whistleblower Program’s Global Anti-Corruption Potential",
+    "link": "https://whistleblowersblog.org/webinars/webinar-to-highlight-new-doj-whistleblower-programs-global-anti-corruption-potential/amp/"
   },
   {
-    "blog": 9,
-    "title": "Elevating Compliance: Unveiling The Crucial Role Of Whistleblowing Channels",
-    "img": "assets/img/blog-details/blog9.jpg",
-    "about": "Ensuring corporate compliance is a cornerstone of organizational integrity. It not only safeguards against unlawful activities but also nurtures a healthy internal environment by preventing issues like discrimination or harassment. Remarkably, this is achievable without compromising the confidentiality of personal data, thanks to the introduction of whistleblowing channels.",
-    "content": [
-      {
-        "heading": "The Significance of Whistleblowing Channels within Organizations",
-        "description": "For companies with established compliance strategies, a framework of best practices is in place to identify and mitigate various risks effectively. When well-defined, this strategy ensures that all employees are cognizant of cybersecurity protocols, legal boundaries, and appropriate workplace interactions."
-      },
-      {
-        "description": "Yet, even within a robust compliance framework, there remains the possibility of individuals within the organization seeking to circumvent it. This underscores the importance of having an internal whistleblowing channel—a mechanism designed for employees to confidentially report any internal rule violations or legal infractions to management."
-      },
-      {
-        "heading": "The Challenge of Reluctance",
-        "description": "The challenge lies in the inherent reluctance of employees to be labeled as 'whistleblowers,' fearing potential repercussions for reporting colleagues or superiors. To address this, organizations can establish an anonymous whistleblowing channel, mirroring the approach taken in the United States where legislation has mandated internal whistleblowing channels, often referred to as whistleblowing hotlines, since 2002."
-      },
-      {
-        "description": "Previously considered an optional practice, the obligation to implement an internal whistleblowing channel now applies to Spanish companies with 50 or more employees, following the transposition of EU Directive 2019/1937 into national law."
-      },
-      {
-        "description": "Furthermore, companies must enforce stringent security measures to restrict access to sensitive data, ensuring that only authorized personnel can retrieve such information."
-      },
-      {
-        "heading": "Embracing Transparency and Accountability",
-        "description": "By embracing an internal whistleblowing channel, organizations enhance the efficacy of their compliance measures, fostering a culture where adherence to rules is paramount. This proactive approach not only mitigates risks but also promotes a transparent and accountable corporate environment."
-      }
-    ],
-    "conclusion1": "Overall, while email can be a useful tool for routine communication and feedback, a dedicated whistleblowing system offers distinct advantages for addressing serious concerns within an organization, including confidentiality, specialized handling, legal protections, enhanced transparency, and a focus on serious issues."
+    "count": "102",
+    "date": "15 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1466091657-1.jpg",
+    "title": "Importance of IRS Whistleblowers Highlighted Ahead of Tax Day",
+    "link": "https://whistleblowersblog.org/corporate-whistleblowers/tax-whistleblowers/importance-of-irs-whistleblowers-highlighted-ahead-of-tax-day/amp/"
   },
   {
-    "blog": 10,
-    "title": "Unleashing The Force Of Whistleblowing: Safeguarding Ethical Standards In Start-Up Dynamics",
-    "img": "assets/img/blog-details/blog10.jpg",
-    "about": "The contemporary business landscape has witnessed an upsurge in start-up enterprises, reshaping industries and propelling the trajectory of commerce into uncharted territories. Amidst the boundless potential for growth and innovation, these budding ventures grapple with distinctive challenges, and chief among them is the imperative to uphold ethical standards in a dynamic and often tumultuous start-up milieu. In this discourse, we shall explore the paramount importance of prioritizing whistleblowing in start-up entities, dissecting the manifold benefits it confers, and contemplating the potential ramifications of neglecting this pivotal facet.",
-    "content": [
-      {
-        "heading": "Cultivating a Culture of Transparency:",
-        "description": "Start-ups, known for their agility and disruptive ethos, can inadvertently find themselves entangled in ethical quandaries amid their breakneck pace. The informal organizational cultures prevalent in these environments may inadvertently discourage employees from reporting misconduct. Prioritizing whistleblowing, however, instills a culture of transparency and accountability from the outset. Encouraging employees to report wrongdoing sans fear of reprisal establishes an ethos where ethical behavior is not just advocated but ingrained."
-      },
-      {
-        "heading": "Mitigating Risks and Safeguarding Reputation:",
-        "description": "Operating with limited resources and lacking the established structures of larger counterparts, start-ups heavily rely on investor funding and partnerships. Any whiff of unethical conduct can imperil these relationships and besmirch the company's reputation, leading to severe financial and legal repercussions. Whistleblowing mechanisms serve as a safety net, identifying and addressing potential risks before they snowball, thus safeguarding the company's credibility and long-term success."
-      },
-      {
-        "heading": "Promoting Compliance with Legal and Regulatory Frameworks:",
-        "description": "Navigating legal and regulatory frameworks can be daunting for start-up founders engrossed in bringing their visionary ideas to life. Whistleblowing, however, empowers start-ups to promptly identify deviations from legal and ethical standards. By encouraging employees to report violations, start-ups can rectify issues and ensure compliance, mitigating the risks of hefty fines, legal battles, and reputational damage."
-      },
-      {
-        "heading": "Enhancing Ethical Decision-Making:",
-        "description": "Operating in ambiguous situations with limited resources, start-ups often grapple with ethical dilemmas. Fostering a culture that values whistleblowing encourages employees to voice concerns, fostering open dialogue that promotes ethical decision-making. This, in turn, aids leaders in making informed choices aligned with the company's values."
-      },
-      {
-        "heading": "Retaining and Attracting Top Talent:",
-        "description": "In a fiercely competitive job market, employees gravitate towards organizations that prioritize ethics and transparency. Prioritizing whistleblowing signals founders' commitment to ethical conduct, not only retaining existing talent but also attracting professionals who seek a workplace valuing integrity and accountability."
-      },
-      {
-        "heading": "Legal Protection for Whistleblowers:",
-        "description": "Legal protection for whistleblowers, a staple in many countries and all EU member states, shields them from employer retaliation. In the less defined power dynamics of start-ups, where retaliation risks may be elevated, legal protection assures whistleblowers that their actions won't lead to negative consequences, fostering a culture of courage and openness."
-      }
-    ],
-    "conclusion1": "In the crucible of start-up dynamics, where the consequences of illegal or unethical behavior can be magnified, whistleblowing emerges as a linchpin. By nurturing a culture that embraces whistleblowing, start-ups can effectively address misconduct, fortify their financial stability and reputation, and chart a course towards enduring success. Establishing robust whistleblowing mechanisms, encompassing anonymous reporting channels and designated personnel for report handling, is imperative to create an environment that venerates integrity, accountability, and ethical conduct. We eagerly await your reflections on this discourse and extend an invitation to explore further insights into WhistleSentinel.",
-    "conclusion2": "Your thoughts and inquiries are invaluable to us."
+    "count": "102",
+    "date": "17 April 2024",
+    "img": "https://c.ndtvimg.com/2024-04/df24tdn8_emma-reilly-ndtv-interview_625x300_17_April_24.jpeg?im=FaceCrop,algorithm=dnn,width=650,height=400",
+    "title": "UN Should Be Denouncing: Whistleblower On Special Favours To China",
+    "link": "https://www.ndtv.com/world-news/un-should-be-denouncing-ohchr-whistleblower-emma-reilly-on-special-favours-to-china-5463390"
   },
   {
-    "blog": 11,
-    "title": "Unveiling The Virtues Of Whistleblowing: A Closer Look At Workplace Benefits",
-    "img": "assets/img/blog-details/blog11.jpg",
-    "about": "Whistleblowers stand as societal watchdogs, illuminating the shadows of corporate misdeeds and governmental malpractice. However, their impact extends beyond societal accountability; within organizations, whistleblowers emerge as invaluable assets. By resolving internal issues before they cascade into media fodder, whistleblowers become catalysts for maintaining organizational integrity and minimizing the specter of negative publicity. In this exploration, we delve into five pivotal benefits of whistleblowing in the workplace:",
-    "content": [
-      {
-        "heading": "Early Detection Of Misconduct:",
-        "description": "The existence of a whistleblowing system facilitates the early identification of misconduct, offering a window of opportunity for intervention and resolution. The mere presence of such a system acts as a deterrent, dissuading illegal or inappropriate activities. Encouraging employees to speak up diminishes the prevalence of fraud, corruption, and unethical behavior. Early intervention allows organizations to address issues directly, preventing escalation and minimizing potential damage."
-      },
-      {
-        "heading": "Reputation Management:",
-        "description": "Handling reports internally with discretion shields the company's reputation from unnecessary tarnish. If internal anonymous tips go unanswered, a whistleblower retains the option to escalate the matter externally or even approach the media, all while maintaining legal protection. Proactive internal handling demonstrates a commitment to ethical standards, providing a shield against reputational harm."
-      },
-      {
-        "heading": "Financial Loss Mitigation:",
-        "description": "Addressing problems directly and preventing recurrence is a direct route to mitigating financial losses. Organizations lacking whistleblowing functions often incur significantly higher losses compared to those with robust reporting channels. The 2020 Report to the Nations by the Association of Certified Fraud Examiners reveals that companies and organizations can lose up to 5% of their annual turnover due to fraud. Whistleblowing emerges as a strategic tool in curbing such financial hemorrhages."
-      },
-      {
-        "heading": "Trust Building:",
-        "description": "Whistleblowing is not just about responding to misconduct; it signifies a commitment to high ethical standards, fostering trust with customers and partners. An organization actively endorsing and supporting employees in reporting misconduct is perceived as trustworthy. An open and honest work culture cultivates better working conditions, enhancing productivity. Loyal employees are more likely to address concerns internally, avoiding external reporting channels."
-      },
-      {
-        "heading": "Legal Compliance Assurance:",
-        "description": "In the era of tightening global anti-corruption and data management laws, a well-implemented whistleblowing function becomes a linchpin for legal compliance. The General Data Protection Regulation (GDPR) exemplifies this trend. Meeting all requirements ensures a reduction in compliance-related risks, positioning the organization as a responsible custodian of legal standards."
-      }
-    ],
-    "conclusion1": "In summary, whistleblowing transcends its role as a societal check; within the confines of an organization, it emerges as a strategic imperative. From early detection of misconduct to fortifying reputation, mitigating financial losses, building trust, and ensuring legal compliance, whistleblowing is a multifaceted tool for organizational well-being. The implementation of comprehensive whistleblowing mechanisms, fulfilling the evolving legal landscape, is pivotal for organizations aspiring to navigate the complexities of today's corporate environment.",
-    "conclusion2": "Your reflections on these insights or inquiries into our approach at WhistleSentinel are most welcome."
+    "count": "102",
+    "date": "17 April 2024",
+    "img": "https://c.ndtvimg.com/2022-02/4hoit0nk_united-nations-reuters_625x300_22_February_22.jpg",
+    "title": "Whistleblower Alleges UN Cover-Up Of 'Special Favour' To China: Report",
+    "link": "https://www.ndtv.com/world-news/whistleblower-alleges-un-cover-up-of-special-favours-to-china-report-5459356"
+  },
+  {
+    "count": "102",
+    "date": "17 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1312717369-1.jpg",
+    "title": "FAA Investigating Boeing Whistleblower Claims about 787 Dreamliner",
+    "link": "https://whistleblowersblog.org/government-whistleblowers/faa-investigating-boeing-whistleblower-claims-about-787-dreamliner/amp/"
+  },
+  {
+    "count": "102",
+    "date": "8 January 2024",
+    "img": "https://w3assets.angelone.in/wp-content/uploads/2021/10/Whistle-blower-Complaints-For-Nifty-Fifty-Companies-Down-by-27-768x386.jpg",
+    "title": "Whistleblower Complaints Down 27% among Half of Nifty-50 Companies in FY21",
+    "link": "https://www.angelone.in/blog/whistle-blower-complaints-for-nifty-fifty-companies-down-by-27-in-fy21"
+  },
+  {
+    "count": "102",
+    "date": "19 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1264708850-1.jpg",
+    "title": "Advocates Call for Public Action on DOJ Whistleblower Program",
+    "link": "https://whistleblowersblog.org/corporate-whistleblowers/advocates-call-for-public-action-on-doj-whistleblower-program/amp/"
+  },
+  {
+    "count": "102",
+    "date": "26 May 2023 ",
+    "img": "https://images.wsj.net/im-789153?width=700&size=1.5",
+    "title": "Record $279 Million Whistleblower Award Went to a Tipster on Ericsson",
+    "link": "https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98"
+  },
+  {
+    "count": "102",
+    "date": "7 March 2024",
+    "img": "https://images.wsj.net/im-850048?width=700&size=1.5005861664712778",
+    "title": "Justice Department to Pay Whistleblowers Who Tip on Corporate Crime",
+    "link": "https://www.wsj.com/articles/justice-department-to-pay-whistleblowers-who-tip-on-corporate-crime-191fc2e5"
+  },
+  {
+    "count": "102",
+    "date": "8 February 2024",
+    "img": "https://images.wsj.net/im-923107?width=700&size=1.5005861664712778",
+    "title": "UBS Loses to Whistleblower in Wide-Reaching Supreme Court Decision",
+    "link": "https://www.wsj.com/articles/ubs-loses-to-whistleblower-in-wide-reaching-supreme-court-decision-da59349e"
+  },
+  {
+    "count": "102",
+    "date": "16 April 2024 ",
+    "img": "https://images.wsj.net/im-949903?width=700&size=1.5005861664712778",
+    "title": "Justice Department To Offer Some Execs Immunity Under Whistleblower Pilot Program",
+    "link": "https://www.wsj.com/articles/justice-department-to-offer-some-execs-immunity-under-whistleblower-pilot-program-dd7e2f55"
+  },
+  {
+    "count": "102",
+    "date": "16 January 2024",
+    "img": "https://images.wsj.net/im-911370?width=700&size=1.5005861664712778",
+    "title": "J.P. Morgan to Pay $18 Million for Whistleblower Protection Violations",
+    "link": "https://www.wsj.com/articles/j-p-morgan-securities-to-pay-18-million-for-whistleblower-protection-violations-914edd32"
+  },
+  {
+    "count": "102",
+    "date": "22 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2021/04/The-Unsung-Heroes-of-Earth-Day-Environmental-Whistleblowers-.jpeg",
+    "title": "The U.S. Must Empower Environmental Whistleblowers",
+    "link": "https://whistleblowersblog.org/editorial/the-u-s-must-empower-environmental-whistleblowers/amp/"
+  },
+  {
+    "count": "102",
+    "date": "24 August 2014",
+    "img": "https://img.etimg.com/thumb/msid-40858153,width-300,height-225,imgsize-46898,resizemode-75/.jpg",
+    "title": "Listed companies gear up for mandatory whistle-blower policy",
+    "link": "https://m.economictimes.com/news/economy/policy/listed-companies-gear-up-for-mandatory-whistle-blower-policy/articleshow/40858153.cms"
+  },
+  {
+    "count": "102",
+    "date": "30 October 2022",
+    "img": "https://static.toiimg.com/thumb/msid-95172949,imgsize-344732,width-400,height-225,resizemode-72/95172949.jpg",
+    "title": "Uttarakhand: 'Whistleblower' IFS officer refuses to join training at Lal Bahadur Shastri National Academy of Administration",
+    "link": "https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-whistleblower-ifs-officer-refuses-to-join-training-at-lal-bahadur-shastri-national-academy-of-administration/articleshow/95172935.cms?_gl=1*1ur5nr*_ga*MTA1MjE5ODE1MS4xNzA3OTY5ODk5*_ga_FCN624MN68*MTcxMzQ0NTk0OS44LjEuMTcxMzQ0NjE0Mi44LjAuMA..#_ga=2.152571836.460670489.1713445950-1052198151.1707969899"
+  },
+  {
+    "count": "102",
+    "date": "22 November 2022",
+    "img": "https://static.toiimg.com/thumb/msid-95678988,imgsize-22722,width-400,height-225,resizemode-72/95678988.jpg",
+    "title": "Whistleblower who exposed RERA scam recorded his statement before court",
+    "link": "https://timesofindia.indiatimes.com/city/thane/whistleblower-who-exposed-rera-scam-recorded-his-statement-before-court/articleshow/95678991.cms?_gl=1*qomo7r*_ga*MTA1MjE5ODE1MS4xNzA3OTY5ODk5*_ga_FCN624MN68*MTcxMzQ0NTk0OS44LjEuMTcxMzQ0NjA5MC42MC4wLjA.#_ga=2.88131486.460670489.1713445950-1052198151.1707969899"
+  },
+  {
+    "count": "102",
+    "date": "11 July 2023",
+    "img": "https://c.ndtvimg.com/2020-12/7odfp46s_hunter-biden-afp_625x300_10_December_20.jpg",
+    "title": "Whistleblower Who Accused Bidens Of Corruption Charged With China Lobbying",
+    "link": "https://www.ndtv.com/world-news/whistleblower-who-accused-bidens-of-corruption-charged-with-china-lobbying-4195746"
+  },
+  {
+    "count": "102",
+    "date": "13 January 2023",
+    "img": "https://c.ndtvimg.com/2018-11/o1j7bmq_anand-rai-vyapam_625x300_09_November_18.jpg",
+    "title": "Supreme Court Grants Bail To Vypam Scam Whistleblower Anand Rai",
+    "link": "https://www.ndtv.com/india-news/supreme-court-grants-bail-to-vypam-scam-whistleblower-anand-rai-3688760"
+  },
+  {
+    "count": "102",
+    "date": "12 September 2022",
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/hp/home-page/2021-06/27/full/1624807142-7962.jpg?im=FeatureCrop,size=(826,465)",
+    "title": "Whistleblower payment doesn't breach deal terms as claimed by Musk: Twitter",
+    "link": "https://www.business-standard.com/amp/article/international/whistleblower-payment-doesn-t-breach-deal-terms-as-claimed-by-musk-twitter-122091200737_1.html"
+  },
+  {
+    "count": "110",
+    "date": "15 November 2021",
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-02/29/full/1582919090-3856.jpg?im=FeatureCrop,size=(826,465)",
+    "title": "With $ 24 mn in hand, Hyundai Motors whistleblower plans to help others",
+    "link": "https://www.business-standard.com/amp/article/international/with-24-mn-in-hand-hyundai-motors-whistleblower-plans-to-help-others-121111201168_1.html"
+  },
+  {
+    "count": "109",
+    "date": "11 June 2020",
+    "img": "https://img.etimg.com/thumb/msid-76320939,width-300,height-225,imgsize-633549,resizemode-75/worker_bccl.jpg",
+    "title": "Whistle-blowers unsure about available legal protection: Deloitte Survey",
+    "link": "https://m.economictimes.com/industry/services/consultancy-/-audit/whistle-blowers-unsure-about-available-legal-protection-deloitte-survey/articleshow/76320883.cms"
+  },
+  {
+    "count": "108",
+    "date": "8 November 2018",
+    "img": "https://img.etimg.com/thumb/msid-66540001,width-300,height-225,imgsize-463144,resizemode-75/india-inc-bccl.jpg",
+    "title": "Whistle-blower complaints on the rise in India Inc",
+    "link": "https://m.economictimes.com/news/company/corporate-trends/whistle-blower-complaints-on-the-rise-in-india-inc/articleshow/66540004.cms"
+  },
+  {
+    "count": "107",
+    "date": "24 January 2014",
+    "img": "https://img.etimg.com/thumb/msid-37126504,width-300,height-225,imgsize-43337,resizemode-75/.jpg",
+    "title": "Many Indian companies unable to use whistle-blowing hotline: Survey",
+    "link": "https://m.economictimes.com/news/company/corporate-trends/many-indian-companies-unable-to-use-whistle-blowing-hotline-survey/articleshow/37126504.cms"
+  },
+  {
+    "count": "105",
+    "date": "05 August 2013",
+    "img": "https://img.etimg.com/thumb/msid-21629955,width-300,height-225,imgsize-62146,resizemode-75/.jpg",
+    "title": "Indian companies yet to fully use whistle blowing mechanism: Survey",
+    "link": "https://m.economictimes.com/news/company/corporate-trends/indian-companies-yet-to-fully-use-whistle-blowing-mechanism-survey/articleshow/21629955.cms"
+  },
+  {
+    "count": "104",
+    "date": "11 February 2012",
+    "img": "https://img.etimg.com/authorthumb/msid-007911,width-120,height-120,imgsize-1385418,resizemode-1.cms",
+    "title": "Auditors, too, should blow the whistle: Richard F Chambers, President & CEO, The Institute of Internal Auditors",
+    "link": "https://m.economictimes.com/opinion/et-commentary/auditors-too-should-blow-the-whistle-richard-f-chambers-president-ceo-the-institute-of-internal-auditors/articleshow/11844602.cms"
+  },
+  {
+    "count": "103",
+    "date": "14 February 2023",
+    "img": "https://static.toiimg.com/thumb/msid-97897458,imgsize-50072,width-400,height-225,resizemode-72/97897458.jpg",
+    "title": "Kolkata Municipal Corporation headquarters squads for whistle-blower complaints",
+    "link": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-municipal-corporation-headquarters-squads-for-whistle-blower-plaints/articleshow/97897452.cms?_gl=1*183gfo3*_ga*MTA1MjE5ODE1MS4xNzA3OTY5ODk5*_ga_FCN624MN68*MTcxMzQ0NTk0OS44LjEuMTcxMzQ0NjAzMC42MC4wLjA.#_ga=2.117957132.460670489.1713445950-1052198151.1707969899"
+  },
+  {
+    "count": "102",
+    "date": "15 May 2024",
+    "img": "https://img.etimg.com/thumb/msid-20059921,width-300,height-225,imgsize-98268,resizemode-75/.jpg",
+    "title": "Framing of whistle-blower policy is not yet mandatory for India Inc",
+    "link": "https://m.economictimes.com/news/company/corporate-trends/framing-of-whistle-blower-policy-is-not-yet-mandatory-for-india-inc/articleshow/20059921.cms"
+  },
+  {
+    "count": "101",
+    "date": "17 April 2024",
+    "img": "https://c.ndtvimg.com/2024-04/df24tdn8_emma-reilly-ndtv-interview_625x300_17_April_24.jpeg?im=FaceCrop,algorithm=dnn,width=650,height=400",
+    "title": "'UN Should Be Denouncing': Whistleblower On 'Special Favours' To China",
+    "link": "https://www.ndtv.com/world-news/un-should-be-denouncing-ohchr-whistleblower-emma-reilly-on-special-favours-to-china-5463390"
+  },
+  {
+    "count": "100",
+    "date": "17 April 2024",
+    "img": "https://c.ndtvimg.com/2022-02/4hoit0nk_united-nations-reuters_625x300_22_February_22.jpg",
+    "title": "Whistleblower Alleges UN Cover-Up Of 'Special Favours' To China: Report",
+    "link": "https://www.ndtv.com/world-news/whistleblower-alleges-un-cover-up-of-special-favours-to-china-report-5459356"
+  },
+  {
+    "count": "99",
+    "date": "17 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1312717369-1.jpg",
+    "title": "FAA Investigating Boeing Whistleblower Claims about 787 Dreamliner",
+    "link": "https://whistleblowersblog.org/government-whistleblowers/faa-investigating-boeing-whistleblower-claims-about-787-dreamliner/amp/"
+  },
+  {
+    "count": "1",
+    "date": "7 November 2023",
+    "img": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13793/production/_131636797_mediaitem131636796.jpg.webp",
+    "title": "I blew the whistle on Meta, now I won't work again",
+    "link": "https://www.bbc.com/news/technology-67343550.amp#amp_tf=From%20%251%24s&aoh=17133350226784&referrer=https%3A%2F%2Fwww.google.com"
+  },
+  {
+    "count": "2",
+    "date": "23 February 2024",
+    "img": "https://images.indianexpress.com/2024/02/satya-pal-malik.jpg?w=640",
+    "title": "Satya Pal Malik from hospital bed: I was the whistleblower in scam, raid to silence critics",
+    "link": "https://indianexpress.com/article/india/satya-pal-malik-from-hospital-bed-i-was-the-whistleblower-in-scam-raid-to-silence-critics-9176193/"
+  },
+  {
+    "count": "3",
+    "date": "24 June 2023",
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/19/full/1681892675-9443.jpg?im=FeatureCrop,size=(826,465)",
+    "title": "TCS suspends 4 for violating code of conduct after whistleblower complaint",
+    "link": "https://www.business-standard.com/companies/news/tcs-suspends-4-for-violating-code-of-conduct-after-whistleblower-complaint-123062400001_1.html"
+  },
+  {
+    "count": "4",
+    "date": "9 March 2024",
+    "img": "https://www.livelaw.in/h-upload/2024/03/09/750x450_527016-law-commission-of-india.webp",
+    "title": "Law Commission Recommends Whistleblower Protection, Says Amendments May Be Brought To Mandate Test Data Disclosure",
+    "link": "https://www.livelaw.in/amp/top-stories/law-commission-of-india-289th-report-trade-secrets-economic-espionage-251731"
+  },
+  {
+    "count": "5",
+    "date": "12 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1497253868-724x375.jpg",
+    "title": "SEC Accepting Whistleblower Award Claims for $81 Million Settlement for Recordkeeping Violations",
+    "link": "https://whistleblowersblog.org/corporate-whistleblowers/sec-whistleblowers/sec-accepting-whistleblower-award-claims-for-81-million-settlement-for-recordkeeping-violations/amp/"
+  },
+  {
+    "count": "6",
+    "date": "10 April 2024",
+    "img": "https://c.ndtvimg.com/boeing-787-dreamliner_625x300_1528076312100.jpg",
+    "title": "Boeing Took Shortcuts In Building Dreamliner 787 Planes, Alleges Engineer",
+    "link": "https://www.ndtv.com/world-news/boeing-took-shortcuts-in-building-dreamliner-787-planes-alleges-engineer-5410522"
+  },
+  {
+    "count": "7",
+    "date": "18 September 2023",
+    "img": "https://img.etimg.com/thumb/msid-103765335,width-300,height-225,imgsize-37446,resizemode-75/why-is-hunter-biden-suing-irs-details-of-the-lawsuit-and-response-of-whistle-blowers-explained.jpg",
+    "title": "Why is Hunter Biden suing IRS?  Details of the lawsuit and response of whistle-blowers | Explained",
+    "link": "https://m.economictimes.com/news/international/us/why-is-hunter-biden-suing-irs-details-of-the-lawsuit-and-response-of-whistle-blowers-explained/articleshow/103765122.cms"
+  },
+  {
+    "count": "8",
+    "date": "11 May 2022",
+    "img": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16CF5/production/_124692439_capture.jpg.webp",
+    "title": "Manx medic unfairly dismissed over whistleblowing, tribunal finds",
+    "link": "https://www.bbc.com/news/world-europe-isle-of-man-61406818"
+  },
+  {
+    "count": "9",
+    "date": "22 March 2024",
+    "img": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0C20/production/_115340130_c0f3b1b0-5994-4d4e-a23a-c3f4a0ccdacb.jpg.webp",
+    "title": "Letby inquiry: NHS staff want their voices heard",
+    "link": "https://www.bbc.com/news/uk-68620676"
+  },
+  {
+    "count": "10",
+    "date": "11 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1134159108-683x375.jpg",
+    "title": "Mandatory Awards Seen as Key to Success of New DOJ Whistleblower Program",
+    "link": "https://whistleblowersblog.org/corporate-whistleblowers/mandatory-awards-seen-as-key-to-success-of-new-doj-whistleblower-program/amp/"
+  },
+  {
+    "count": "11",
+    "date": "6 December 2021",
+    "img": "https://c.ndtvimg.com/2021-03/rrthqfk_param-bir-singh-pti_625x300_20_March_21.jpg",
+    "title": "Mumbai Ex-Top Cop Not 'Whistleblower', Maharashtra Tells Supreme Court",
+    "link": "https://www.ndtv.com/india-news/param-bir-singh-not-whistleblower-flagged-corruption-after-transfer-maharashtra-to-sc-2638019"
+  },
+  {
+    "count": "12",
+    "date": "27 August 2022",
+    "img": "https://c.ndtvimg.com/2021-02/alobemt_twitter-generic-reuters_650x400_10_February_21.jpg",
+    "title": "Parliament Panel Grills Top Twitter Officials Over Whistleblower's Claims",
+    "link": "https://www.ndtv.com/india-news/parliament-panel-grills-top-twitter-officials-over-whistleblowers-claims-on-india-operations-report-3291158"
+  },
+  {
+    "count": "13",
+    "date": "25 August 2022",
+    "img": "https://c.ndtvimg.com/2022-04/eld58jbk_elon-musk-reuters_650x400_26_April_22.jpg",
+    "title": "Elon Musk Lawyers Raise Twitter Whistleblower Complaint In Court",
+    "link": "https://www.ndtv.com/world-news/elon-musk-vs-twitter-elon-musk-lawyers-raise-twitter-whistleblower-complaint-in-court-3284241"
+  },
+  {
+    "count": "14",
+    "date": "26 September 2022",
+    "img": "https://i.gadgets360cdn.com/large/elon_musk_twitter_reuters_1650914321120.jpg?downsize=950:*",
+    "title": "Elon Musk Reportedly Adds Whistleblower Payment as New Reason for Termination of $44 Billion Twitter Deal",
+    "link": "https://www.gadgets360.com/social-networking/news/elon-musk-twitter-pieter-zatko-whistleblower-alleged-payment-deal-breaker-reason-report-3333050"
+  },
+  {
+    "count": "15",
+    "date": "26 August 2022",
+    "img": "https://i.gadgets360cdn.com/large/twitter_users_reuters_1657803206561.jpg?downsize=950:*",
+    "title": "Twitter Questioned Over Whistleblower’s Claims on India Operations by Tharoor-Led Parliamentary Panel",
+    "link": "https://www.gadgets360.com/social-networking/news/twitter-india-operations-questioned-parliamentary-panel-shashi-tharoor-3290423"
+  },
+
+  {
+    "count": "16",
+    "date": "23 September 2022",
+    "img": "https://i.gadgets360cdn.com/large/frances_haugen_facebook_whistleblower_reuters_1636449899852.jpg?downsize=950:*",
+    "title": "Facebook Whistleblower Frances Haugen Launches 'Beyond the Screen' Organisation to Tackle Social Media Harms",
+    "link": "https://www.gadgets360.com/social-networking/news/frances-haugen-beyond-the-screen-nonprofit-organisation-facebook-social-media-accountability-big-tech-meta-3370033"
+  },
+  {
+    "count": "17",
+    "date": "26 September 2022",
+    "img": "https://i.ndtvimg.com/i/2016-07/edward-snowden_650x400_51469164236.jpg",
+    "title": "Putin Grants Russian Citizenship To US Whistleblower Edward Snowden",
+    "link": "https://www.ndtv.com/world-news/putin-grants-russian-citizenship-to-u-s-whistleblower-edward-snowden-3379739"
+  },
+  {
+    "count": "18",
+    "date": "29 August 2022",
+    "img": "https://c.ndtvimg.com/2022-04/eld58jbk_elon-musk-reuters_650x400_26_April_22.jpg",
+    "title": "Elon Musk Summons Twitter Whistleblower Seeking Information On Spam, Security",
+    "link": "https://www.ndtv.com/world-news/elon-musk-summons-twitter-seeking-information-on-spam-security-3297982"
+  },
+  {
+    "count": "19",
+    "date": "3 November 2022",
+    "img": "https://i.gadgets360cdn.com/large/uber_reuters_full_1578572076102.JPG?downsize=950:*",
+    "title": "Uber Whistleblower Says Business Model 'Absolutely Unsustainable' After Firm Attempts to Improve Work Culture",
+    "link": "https://www.gadgets360.com/transportation/news/uber-files-whistleblower-mark-macgann-business-model-unsustainable-dara-khosrowshahi-gig-economy-3486034"
+  },
+  {
+    "count": "20",
+    "date": "3 November 2022",
+    "img": "https://media.assettype.com/bloombergquint%2Fimport%2Fuhrbjmhg_image_625x300_03_November_22.jpg?auto=format%2Ccompress&w=576&format=webp",
+    "title": "Uber's Current Business Model 'Absolutely' Unsustainable, Says Whistleblower",
+    "link": "https://www.ndtvprofit.com/business/ubers-current-business-model-absolutely-unsustainable-says-whistleblower-3485676"
+  },
+  {
+    "count": "21",
+    "date": "31 August 2022",
+    "img": "https://i.gadgets360cdn.com/large/elon_musk_twitter_reuters_1655450675928.jpg?downsize=950:*",
+    "title": "Elon Musk Seeks to Delay Twitter Trial Till November After Fresh Claims From Whistleblower",
+    "link": "https://www.gadgets360.com/social-networking/news/elon-musk-twitter-whistleblower-peiter-zatko-delay-trial-november-fresh-claims-3302233"
+  },
+  {
+    "count": "22",
+    "date": "13 September 2022",
+    "img": "https://i.gadgets360cdn.com/large/twitter_logo_phone_reuters_1599803329254.jpg?downsize=950:*",
+    "title": "Twitter Whistleblower Set to Testify Before US Senate Committee Over Alleged Security Lapses: Report",
+    "link": "https://www.gadgets360.com/internet/news/twitter-whistleblower-peiter-zatko-testimony-us-senate-committee-allegations-security-3340736"
+  },
+  {
+    "count": "23",
+    "date": "20 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/Untitled-design-12.png",
+    "title": "Stephen Kohn on Landmark Supreme Court Whistleblower Case",
+    "link": "https://whistleblowersblog.org/podcasts/stephen-kohn-on-landmark-supreme-court-whistleblower-case/amp/"
+  },
+  {
+    "count": "24",
+    "date": "19 May 2016",
+    "img": "https://img.etimg.com/thumb/msid-52334944,width-300,height-225,imgsize-55549,resizemode-75/.jpg",
+    "title": "How drug whistle-blowers in India have to fight a long battle",
+    "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/how-drug-whistle-blowers-in-india-have-to-fight-a-long-battle/articleshow/52334944.cms"
+  },
+  {
+    "count": "25",
+    "date": "22 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2021/03/WNN-Exclusive-Senator-Grassley-Questions-SEC-Chair-Nominee-on-Commitment-to-Whistleblower-Program.jpg",
+    "title": "During Sunshine Week 2024, Senator Grassley Sheds Light on Whistleblowers",
+    "link": "https://whistleblowersblog.org/government-whistleblowers/during-sunshine-week-2024-senator-grassley-sheds-light-on-whistleblowers/"
+  },
+  {
+    "count": "26",
+    "date": "3 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-1410112423-627x375.jpg",
+    "title": "This World Wildlife Day Whistleblowing Bridges Digital Innovation with Animal Conservation",
+    "link": "https://whistleblowersblog.org/environmental-whistleblowers/this-world-wildlife-day-whistleblowing-bridges-digital-innovation-with-animal-conservation/"
+  },
+  {
+    "count": "27",
+    "date": "3 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-1482810339-750x375.jpg",
+    "title": "Whistleblower Rewards Essential to Combat Environmental Crime",
+    "link": "https://whistleblowersblog.org/environmental-whistleblowers/whistleblower-rewards-essential-to-combat-environmental-crime/"
+  },
+  {
+    "count": "28",
+    "date": "9 February 2024",
+    "img": "https://dims.apnews.com/dims4/default/d2883b0/2147483647/strip/true/crop/3842x2653+0+0/resize/1440x994!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2F57%2Ffde1b94b3876bb917ce534f939e9%2F1cf445de1c334113a7587f4b904f3d10",
+    "title": "CIA terminates whistleblower who prompted flood of sexual misconduct complaints",
+    "link": "https://apnews.com/article/cia-sexual-misconduct-harassment-spying-whistleblower-49b949a293f51416f51dca9daa9b6180"
+  },
+  {
+    "count": "29",
+    "date": "18 May 2023",
+    "img": "https://www.parliament.uk/contentassets/81ccc65246e047febd07c864a61281da/220317_tyler-allicock_cos06713.jpg",
+    "title": "Damning whistle-blower evidence reveals ongoing sexual abuse within the Armed Services",
+    "link": "https://committees.parliament.uk/committee/24/defence-committee/news/195323/damning-whistleblower-evidence-reveals-ongoing-sexual-abuse-within-the-armed-services/"
+  },
+  {
+    "count": "30",
+    "date": "25 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-983830996-724x375.jpg",
+    "title": "Whistleblower Experts Call on DOJ to Follow Example of Dodd-Frank Programs",
+    "link": "https://whistleblowersblog.org/government-whistleblowers/whistleblower-experts-call-on-doj-to-follow-example-of-dodd-frank-programs/amp/"
+  },
+  {
+    "count": "31",
+    "date": "10 May 2022",
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-04/12/full/1491991991-3593.jpg?im=FeatureCrop,size=(826,465)",
+    "title": "Canara Bank probes fraud in unit after whistleblower complaint: Report",
+    "link": "https://www.business-standard.com/amp/article/companies/canara-bank-probes-fraud-in-unit-after-whistleblower-complaint-report-122050900996_1.html"
+  },
+  {
+    "count": "32",
+    "date": "29 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2021/05/CFTC-Whistleblower-Office-Posts-NCA-for-5-Million-Futures-and-Options-Fraud-Case-1140x570.jpeg",
+    "title": "CFTC Accepting Whistleblower Award Claims for $204 Million Binary Options Fraud Case",
+    "link": "https://whistleblowersblog.org/commodities/cftc-accepting-whistleblower-award-claims-for-204-million-binary-options-fraud-case/amp/"
+  },
+  {
+    "count": "33",
+    "date": "1 April 2024",
+    "img": "https://static.toiimg.com/thumb/msid-108937302,imgsize-999947,width-400,resizemode-4/108937302.jpg",
+    "title": "From Gao Yaojie to Li Wenliang: The high cost of being a whistleblower in China",
+    "link": "https://timesofindia.indiatimes.com/world/china/from-gao-yaojie-to-li-wenliang-the-high-cost-of-being-a-whistleblower-in-china/articleshow/108937075.cms?_gl=1*2k481e*_ga*MTA1MjE5ODE1MS4xNzA3OTY5ODk5*_ga_FCN624MN68*MTcxMjAzMzgyOS4zLjAuMTcxMjAzMzgyOS42MC4wLjA.#_ga=2.96043796.982421362.1712033829-1052198151.1707969899"
+  },
+  {
+    "count": "34",
+    "date": "26 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-1952253409-724x375.jpg",
+    "title": "Renowned Whistleblower Advocate Speaking at Global OECD Forum",
+    "link": "https://whistleblowersblog.org/webinars/renowned-whistleblower-advocate-speaking-at-global-oecd-forum/amp/"
+  },
+  {
+    "count": "35",
+    "date": "8 January 2024",
+    "img": "https://w3assets.angelone.in/wp-content/uploads/2021/10/Whistle-blower-Complaints-For-Nifty-Fifty-Companies-Down-by-27-768x386.jpg",
+    "title": "Whistleblower Complaints Down 27% among Half of Nifty-50 Companies in FY21",
+    "link": "https://www.angelone.in/blog/whistle-blower-complaints-for-nifty-fifty-companies-down-by-27-in-fy21?gclsrc=aw.ds&&utm_source=google&utm_medium=cpc&utm_campaign=B2C_Search_DSA_New&network=g&keyword=&matchtype=&creative=669880946367&device=m&devicemodel=&gad_source=1&gclid=CjwKCAjwh4-wBhB3EiwAeJsppHYq0a3iVMAWaHEr2x5_N8a9rDQMmOl2g-_biKQ7iRgImUQl1EPgchoCEZEQAvD_BwE"
+  },
+  {
+    "count": "36",
+    "date": "27 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-1363364624-750x375.jpg",
+    "title": "Shipping Company Involved in Baltimore Bridge Collapse Retaliated Against Whistleblower",
+    "link": "https://whistleblowersblog.org/osha-whistleblowers/shipping-company-involved-in-baltimore-bridge-collapse-retaliated-against-whistleblower/amp/"
+  },
+  {
+    "count": "37",
+    "date": "26 February 2023",
+    "img": "https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,height-225,resizemode-72/47529300.jpg",
+    "title": "Amrutanjan shares fall around 10% on whistleblower allegations",
+    "link": "https://timesofindia.indiatimes.com/city/chennai/amrutanjan-shares-fall-around-10-on-whistleblower-allegations/articleshow/97965530.cms?_gl=1*jwpqiu*_ga*MTA1MjE5ODE1MS4xNzA3OTY5ODk5*_ga_FCN624MN68*MTcxMjAzMzgyOS4zLjEuMTcxMjAzMzk2OS42MC4wLjA.#_ga=2.74354330.982421362.1712033829-1052198151.1707969899"
+  },
+  {
+    "count": "38",
+    "date": "1 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2020/08/commoditiesfraud.jpg",
+    "title": "Consulting Corporation Nailed for Peddling Fraudulent Trades, CFTC Accepting Whistleblower Award Claims",
+    "link": "https://whistleblowersblog.org/commodities/consulting-corporation-nailed-for-peddling-fraudulent-trades-cftc-accepting-whistleblower-award-claims/amp/"
+  },
+  {
+    "count": "39",
+    "date": "15 February 2024",
+    "img": "https://images.theconversation.com/files/575762/original/file-20240215-30-wzbohm.jpg?ixlib=rb-4.1.0&rect=0%2C637%2C5982%2C2991&q=45&auto=format&w=1356&h=668&fit=cro",
+    "title": "The Jewish creatives’ WhatsApp leak was more whistleblowing than doxing. Here’s why",
+    "link": "https://theconversation.com/the-jewish-creatives-whatsapp-leak-was-more-whistleblowing-than-doxing-heres-why-223552"
+  },
+  {
+    "count": "40",
+    "date": "18 September 2023",
+    "img": "https://images.theconversation.com/files/547007/original/file-20230907-23-jswl2h.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=926&fit=clip",
+    "title": "Corruption in South Africa: would paying whistleblowers help?",
+    "link": "https://theconversation.com/corruption-in-south-africa-would-paying-whistleblowers-help-212118"
+  },
+  {
+    "count": "41",
+    "date": "2 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1139073776.jpg",
+    "title": "For Advocates, Boeing Whistleblower Death Highlights Concerns with Retaliation and Protracted Legal Proceedings",
+    "link": "https://whistleblowersblog.org/other/for-advocates-boeing-whistleblower-death-highlights-concerns-with-retaliation-and-protracted-legal-proceedings/amp/"
+  },
+  {
+    "count": "42",
+    "date": "3 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1967864822.jpg",
+    "title": "Whistleblower Receives $2.3 Million for Alleging Unnecessary Lab Tests Billed to Medicare",
+    "link": "https://whistleblowersblog.org/false-claims-qui-tam-news/whistleblower-receives-2-3-million-for-alleging-unnecessary-lab-tests-billed-to-medicare/?mc_cid=f2d9d55d04&mc_eid=0d4aa315be"
+  },
+  {
+    "count": "43",
+    "date": "6 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2023/06/customs-.jpeg",
+    "title": "False Claims Whistleblower Receives $600K in Customs Evasion Case",
+    "link": "https://whistleblowersblog.org/false-claims-qui-tam-news/false-claims-whistleblower-receives-600k-in-customs-evasion-case/amp/"
+  },
+  {
+    "count": "44",
+    "date": "5 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-2088916730-scaled.jpg",
+    "title": "DOL Alleges Pesticide Manufacturer Retaliated Against Whistleblower",
+    "link": "https://whistleblowersblog.org/osha-whistleblowers/dol-alleges-pesticide-manufacturer-retaliated-against-whistleblower/amp/"
+  },
+  {
+    "count": "45",
+    "date": "9 April 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/04/iStock-1214743149.jpg",
+    "title": "Physician’s Whistleblowing Leads to $4 Million False Claims Act Settlement Over Kickback Allegations",
+    "link": "https://whistleblowersblog.org/false-claims-qui-tam-news/physicians-whistleblowing-leads-to-4-million-false-claims-act-settlement-over-kickback-allegations/"
+  },
+  {
+    "count": "46",
+    "date": "11 January 2024",
+    "img": "https://www.independent.co.uk/img/logo-white-out.svg",
+    "title": "New York prosecutor puts out call for whistleblowers to help uncover corruption",
+    "link": "https://www.independent.co.uk/news/world/americas/crime/new-york-prosecutor-whistleblowers-corruption-b2477270.html"
+  },
+  {
+    "count": "48",
+    "date": "18 November 2019",
+    "img": "https://www.forbesindia.com/media/images/2019/Nov/img_123741_salil_parikh.jpg",
+    "title": "Infosys: Whistleblowing or crying wolf?",
+    "link": "https://www.forbesindia.com/article/real-issue/infosys-whistleblowing-or-crying-wolf/56175/1"
+  },
+  {
+    "count": "49",
+    "date": "9 December 2022",
+    "img": "https://images.news18.com/ibnlive/uploads/2022/10/sebi-16653164564x3.jpg?impolicy=website&width=640&height=480",
+    "title": "Sebi Receives About 30,000 Whistle-Blower Complaints On Average In A Year, Says Its Chief Vigilance Officer",
+    "link": "https://www.news18.com/business/sebi-receives-about-30000-whistle-blower-complaints-on-average-in-a-year-says-its-chief-vigilance-officer-6578875.html"
+  },
+  {
+    "count": "50",
+    "date": "27 March 2023",
+    "img": "https://static.toiimg.com/thumb/msid-99031639,imgsize-20032,width-400,resizemode-4/99031639.jpg",
+    "title": "UK government launches review of whistleblowing laws",
+    "link": "https://timesofindia.indiatimes.com/world/uk/uk-government-launches-review-of-whistleblowing-laws/articleshow/99031259.cms"
+  },
+  {
+    "count": "51",
+    "date": "2 August 2023",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2023/08/Screen-Shot-2023-08-02-at-3.19.16-PM-1140x570.png",
+    "title": "Whistleblowers, Advocates, Government Officials Gather for National Whistleblower Day 2023",
+    "link": "https://whistleblowersblog.org/national-whistleblower-day/whistleblowers-advocates-government-officials-gather-for-national-whistleblower-day-2023/"
+  },
+  {
+    "count": "52",
+    "date": "8 February 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2022/10/Supreme-Court.jpeg",
+    "title": "Supreme Court Decision in SOX Retaliation Case 'A Major Win for Whistleblowers'",
+    "link": "https://whistleblowersblog.org/corporate-whistleblowers/supreme-court-decision-in-sox-retaliation-case-a-major-win-for-whistleblowers/"
+  },
+  {
+    "count": "53",
+    "date": "06 December 2021",
+    "img": "https://bl-i.thgim.com/public/opinion/editorial/18hih2/article29779177.ece/alternates/LANDSCAPE_1200/BL24Thinkwhistleblower",
+    "title": "Why India’s whistleblower protection programme is not as effective as that in the US",
+    "link": "https://www.thehindubusinessline.com/companies/why-indias-whistleblower-protection-programme-is-not-as-effective-as-that-in-the-us/article29794564.ece"
+  },
+  {
+    "count": "54",
+    "date": "12 October 2023",
+    "img": "https://images.cnbctv18.com/wp-content/uploads/2023/10/whistleblowing-in-the-workplace-take-2.jpg?impolicy=website&width=590&height=264",
+    "title": "Zoomed Out | Whistle Blowers Protection Act, 2014 — here's why it appears to be a cracked foundation",
+    "link": "https://www.cnbctv18.com/views/whistleblower-protection-act-2014-heres-why-it-appears-to-be-a-cracked-foundation-18028651.htm"
+  },
+  {
+    "count": "55",
+    "date": "22 February 2019",
+    "img": "https://cdn.thewire.in/wp-content/uploads/2019/02/22120737/Narendra-Modi_PTI-1197x600.jpg",
+    "title": "Five Years After Passing Law to Protect Whistleblowers, Govt Yet to Operationalise It",
+    "link": "https://thewire.in/government/whistle-blowers-protection-act-five-years"
+  },
+  {
+    "count": "56",
+    "date": "15 December 2023",
+    "img": "https://images.transparencycdn.org/images/Whistleblower-web-feature-lead-image.png?auto=compress&fit=crop&&w=2462&h=1384.875",
+    "title": "EU MEMBER STATES NEED TO ENHANCE THEIR WHISTLEBLOWER PROTECTION LAWS",
+    "link": "https://www.transparency.org/en/news/eu-member-states-need-to-enhance-their-whistleblower-protection-laws"
+  },
+  {
+    "count": "57",
+    "date": "22 November 2023",
+    "img": "https://www.integrityline.com/wp-content/uploads/2022/01/integrityline-whistleblowing-directive-france-webinar-teaser.jpg",
+    "title": "New French Whistleblowing Law: The Transposition of the EU Directive",
+    "link": "https://www.integrityline.com/expertise/blog/new-french-whistleblowing-law/"
+  },
+  {
+    "count": "58",
+    "date": "8 October 2021",
+    "img": "https://img.etimg.com/thumb/msid-86877212,width-300,height-225,imgsize-64866,resizemode-75/just-in-jest.jpg",
+    "title": "Whistleblowers, whistle cautiously",
+    "link": "https://economictimes.indiatimes.com/opinion/just-in-jest/whistleblowers-whistle-cautiously/articleshow/86877137.cms"
+  },
+  {
+    "count": "59",
+    "date": "20 July 2023",
+    "img": "https://static.toiimg.com/thumb/msid-101973053,imgsize-72812,width-400,resizemode-4/101973053.jpg",
+    "title": "IRS whistleblowers claim bias in Hunter Biden case",
+    "link": "https://timesofindia.indiatimes.com/world/us/irs-whistleblowers-claim-bias-in-hunter-biden-case/articleshow/101973044.cms"
+  },
+  {
+    "count": "60",
+    "date": "29 December 2022",
+    "img": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202212/arvind_gupta-sixteen_nine.jpg?size=948:533",
+    "title": "Meet Arvind Gupta! The whistleblower responsible for Chanda Kochhar, Venugopal Dhoot's arrests",
+    "link": "https://www.businesstoday.in/latest/corporate/story/meet-arvind-gupta-the-whistleblower-responsible-for-chanda-kochhar-venugopal-dhoots-arrests-358194-2022-12-29"
+  },
+  {
+    "count": "61",
+    "date": "22 February 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2021/02/building-entrance-sign-for-the-department-of-justice-in-washington-dc-picture-id961565068.jpg",
+    "title": "Qui Tam Whistleblowers Recovered $2.3 Billion in False Claims Act Cases in FY 2023",
+    "link": "https://whistleblowersblog.org/false-claims-qui-tam-news/qui-tam-whistleblowers-recovered-2-3-billion-in-false-claims-act-cases-in-fy-2023/"
+  },
+  {
+    "count": "62",
+    "date": "23 February 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2020/08/iStock-853859846.jpg",
+    "title": "Proposed Whistleblower Protection Authority in Australia Would Offer Awards",
+    "link": "https://whistleblowersblog.org/global-whistleblowers/proposed-whistleblower-protection-authority-in-australia-would-offer-awards/"
+  },
+  {
+    "count": "64",
+    "date": "10 February 2021",
+    "img": "https://www.whistleblowerattorneys.com/sites/default/files/2021-01/people-whistle.png",
+    "title": "The Best and Worst Countries for Whistleblowers",
+    "link": "https://www.whistleblowerattorneys.com/blog/best-worst-countries-whistleblowers"
+  },
+  {
+    "count": "65",
+    "date": "14 February 2024",
+    "img": "https://www.whistleblowers.org/wp-content/uploads/2019/02/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
+    "title": "Supreme Court Issues Landmark Pro-Whistleblower Decision Following NWC Amicus Brief",
+    "link": "https://www.whistleblowers.org/news/supreme-court-pro-whistleblower-decision-following-nwc-amicus-brief/"
+  },
+  {
+    "count": "67",
+    "date": "21 February 2024",
+    "img": "https://whistleblowingnetwork.org/getattachment/1f4fc2d1-e026-476a-8fc1-6f19d8d5910c/banner.jpeg",
+    "title": "Thanks to a joint effort by TI Slovakia, Stop Corruption Foundation and WIN, the Government of Slovakia withdrew its proposal to change the Whistleblower Protection Law.",
+    "link": "https://whistleblowingnetwork.org/News-Events/News/News-Archive/The-Government-of-Slovakia-withdraws-the-proposal"
+  },
+  {
+    "count": "68",
+    "date": "19 May 2023",
+    "img": "https://www.financialexpress.com/wp-content/uploads/2023/05/1-163.jpg?w=1024",
+    "title": "SEC reward puts spotlight on India’s whistle-blower policy",
+    "link": "https://www.financialexpress.com/market/sec-reward-puts-spotlight-on-indias-whistle-blower-policy-3093065/"
+  },
+  {
+    "count": "69",
+    "date": "11 February 2024",
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610565102-1988.jpg?im=FitAndFill=(826,465)",
+    "title": "Investigation of tax evasion by WSP India in progress: IT Dept tells HC",
+    "link": "https://www.business-standard.com/companies/news/investigation-of-tax-evasion-by-wsp-india-in-progress-it-dept-tells-hc-124021100471_1.html"
+  },
+  {
+    "count": "70",
+    "date": "20 February 2024",
+    "img": "https://bl-i.thgim.com/public/todays-paper/tp-news/yy0y0o/article67482392.ece/alternates/LANDSCAPE_1200/Direct-listing-%2BG72BUVHHV.4.jpg.jpg",
+    "title": "MCA unveils ‘Leniency Plus’ regime to crack down on cartels",
+    "link": "https://www.thehindubusinessline.com/economy/ccis-leniency-plus-program-boosts-antitrust-enforcement-effective-from-february-20/article67865999.ece"
+  },
+  {
+    "count": "73",
+    "date": "2 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-1340381070.jpg",
+    "title": "On Anniversary of False Claims Act, Advocates Call for Action on Stalled Whistleblower Legislation",
+    "link": "https://whistleblowersblog.org/whistleblower-legislation/on-anniversary-of-false-claims-act-advocates-call-for-action-on-stalled-whistleblower-legislation/?mc_cid=198bd3357f&mc_eid=0d4aa315be"
+  },
+  {
+    "count": "74",
+    "date": "1 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2021/07/National-Whistleblower-Day-19-e1627678533877.png",
+    "title": "New U.S. Special Counsel Supports an Annual National Whistleblower Day",
+    "link": "https://whistleblowersblog.org/national-whistleblower-day/new-u-s-special-counsel-supports-an-annual-national-whistleblower-day/?mc_cid=36b93a7309&mc_eid=0d4aa315be"
+  },
+  {
+    "count": "75",
+    "date": "20 February 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/02/iStock-1387711606.jpg",
+    "title": "Whistleblower Allegations Against Toxicology Lab Lead to $10.4 Million Settlement",
+    "link": "https://whistleblowersblog.org/false-claims-qui-tam-news/whistleblower-allegations-against-toxicology-lab-lead-to-10-4-million-settlement/"
+  },
+  {
+    "count": "78",
+    "date": "5 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-458995021.jpg",
+    "title": "Exxon Whistleblower Case Centers on Enforceability of Preliminary Reinstatement",
+    "link": "https://whistleblowersblog.org/osha-whistleblowers/exxon-whistleblower-case-centers-on-enforceability-of-preliminary-reinstatement/"
+  },
+  {
+    "count": "79",
+    "date": "2 October 2023",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J6TB27HLR5LXFGSZUTMJJ34D2Q.jpg",
+    "title": "Barclays challenges ruling it 'retaliated' against whistleblower in India",
+    "link": "https://www.reuters.com/business/finance/barclays-challenges-ruling-it-retaliated-against-whistleblower-india-2023-10-02/"
+  },
+  {
+    "count": "80",
+    "date": "6 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2021/06/Whistleblowers-Key-in-SECs-Enforcement-of-Climate-Risk-Disclosures-.jpeg",
+    "title": "SEC’s Final Climate Disclosure Rules Will Not Combat Greenwashing, But Opens Door for Whistleblowers",
+    "link": "https://whistleblowersblog.org/corporate-whistleblowers/sec-whistleblowers/secs-final-climate-disclosure-rules-will-not-combat-greenwashing-but-opens-door-for-whistleblowers/"
+  },
+  {
+    "count": "81",
+    "date": "7 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2021/01/DOJ-Report-Over-Two-Thirds-Of-2020-FCA-Recoveries-Come-From-Qui-Tam-Whistleblowers.jpg",
+    "title": "DOJ to Launch Whistleblower Award Program",
+    "link": "https://whistleblowersblog.org/corporate-whistleblowers/doj-to-launch-whistleblower-award-program/?mc_cid=e6a64dd79e&mc_eid=0d4aa315be"
+  },
+  {
+    "count": "82",
+    "date": "8 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-1371231628.jpg",
+    "title": "Senator Grassley Raises Concern that ATF Memo Violates Whistleblower Protection Act",
+    "link": "https://whistleblowersblog.org/government-whistleblowers/senator-grassley-raises-concern-that-atf-memo-violates-whistleblower-protection-act/amp/"
+  },
+  {
+    "count": "83",
+    "date": "23 February 2017",
+    "img": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/02/23/Photos/Processed/infosys2-kPPF--621x414@LiveMint.jpg",
+    "title": "NSE, BSE seek clarification from Infosys on whistleblower emails on Panaya",
+    "link": "https://www.livemint.com/Companies/9iOHAi0qTrzOZZk9MEWuQL/NSE-BSE-seek-clarification-from-Infosys-on-anonymous-emails.html"
+  },
+  {
+    "count": "84",
+    "date": "12 March 2024",
+    "img": "https://img.etimg.com/thumb/msid-108420976,width-300,height-225,imgsize-235380,resizemode-75/the-man-who-blew-the-whistle-on-boeing-production-scam-found-dead.jpg",
+    "title": "The man who blew the whistle on Boeing production standards case found dead",
+    "link": "https://economictimes.indiatimes.com/news/international/business/the-man-who-blew-the-whistle-on-boeing-production-scam-found-dead/articleshow/108420854.cms"
+  },
+  {
+    "count": "86",
+    "date": "11 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2021/03/Former-DOJ-Official-Improperly-Promoted-Employee-as-Repayment-for-Loyalty-to-Trump-Whistleblowers-Say--1140x570.jpg",
+    "title": "Leading Whistleblower Attorney Outlines Flaws in DOJ’s Whistleblower Award Plan",
+    "link": "https://whistleblowersblog.org/government-whistleblowers/leading-whistleblower-attorney-outlines-flaws-in-dojs-whistleblower-award-plan/?mc_cid=6e47999c3a&mc_eid=0d4aa315be"
+  },
+  {
+    "count": "87",
+    "date": "12 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-1478745519.jpg",
+    "title": "Whistleblower Suit Against Skilled Therapy Provider Leads to $1.5 Million Settlement",
+    "link": "https://whistleblowersblog.org/false-claims-qui-tam-news/whistleblower-suit-against-skilled-therapy-provider-leads-to-1-5-million-settlement/"
+  },
+  {
+    "count": "88",
+    "date": "13 March 2024",
+    "img": "https://whistleblowersblog.org/wp-content/uploads/2024/03/iStock-1197083091.jpg",
+    "title": "Farmers to Pay $6.5 Million After Whistleblower Alleges They Defrauded Crop Insurance Programs",
+    "link": "https://whistleblowersblog.org/false-claims-qui-tam-news/farmers-to-pay-6-5-million-after-whistleblower-alleges-they-defrauded-crop-insurance-programs/?mc_cid=be54ed1e27&mc_eid=0d4aa315be"
+  },
+  {
+    "count": "97",
+    "date": "20 November 2021",
+    "img": "https://www.livelaw.in/h-upload/2021/11/20/750x450_404426-sitting-of-peace-and-harmony-committee.jpg",
+    "title": "'Hate Promotes Virality, Virality Increases Revenue' : Delhi Assembly Seeks Facebook Records Of Complaints About Communal Posts Prior To Riots",
+    "link": "https://www.livelaw.in/news-updates/sc-issues-notice-to-centre-on-pil-seeking-strengthening-of-laws-to-protect-whistleblowers-185950"
+  },
+  {
+    "count": "98",
+    "date": "15 June 2021",
+    "img": "https://www.whistleblowerattorneys.com/sites/default/files/2021-06/good-whistleblower-lawsuit.jpg",
+    "title": "Components of a Successful Whistleblower Case",
+    "link": "https://www.whistleblowerattorneys.com/blog/major-false-claims-act-settlement-announced-against-defunct-therapy-company"
   }
 ]
