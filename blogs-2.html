@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>whistle Sentinel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Premium Bootstrap 5 Landing Page Template"
+    />
+    <!-- jquery for blog -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <meta
+      name="keywords"
+      content="Saas, Software, multi-uses, HTML, Clean, Modern"
+    />
+    <meta name="author" content="Shreethemes" />
+    <meta name="email" content="support@shreethemes.in" />
+    <meta name="website" content="https://shreethemes.in" />
+    <meta name="Version" content="v4.8.0" />
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="assets/images/homePage-Img/favicon.png" />
+
+    <!-- Css -->
+    <link href="assets/libs/tiny-slider/tiny-slider.css" rel="stylesheet" />
+    <!-- Bootstrap Css -->
+    <link
+      href="assets/css/bootstrap.min.css"
+      id="bootstrap-style"
+      class="theme-opt"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- Icons Css -->
+    <link
+      href="assets/libs/@mdi/font/css/materialdesignicons.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="assets/libs/@iconscout/unicons/css/line.css"
+      type="text/css"
+      rel="stylesheet"
+    />
+    <!-- Style Css-->
+    <link
+      href="assets/css/style.min.css"
+      id="color-opt"
+      class="theme-opt"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <style>
+      .b-d-s-item {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 20px;
+        margin-bottom: 20px; /* Add margin at the bottom */
+      }
+
+      .b-d-s-item img {
+        max-width: 100%;
+        border-radius: 5px;
+        margin-bottom: 15px;
+      }
+
+      .b-d-s-item h3 {
+        margin: 0 0 10px;
+        color: black;
+      }
+
+      .b-d-s-item p {
+        margin: 0 0 10px;
+      }
+
+      .b-d-s-item a.read-more-link {
+        margin-top: auto;
+      }
+
+      .responsive-image {
+        width: 60%;
+        height: auto;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- Navbar Start -->
+    <header id="topnav" class="defaultscroll sticky">
+      <div class="container">
+        <!-- Logo container-->
+        <a class="logo" href="index.html">
+          <img
+            src="assets/images/homePage-Img/wslogo.PNG"
+            height="45"
+            class="logo-light-mode"
+            alt=""
+          />
+          <img
+            src="assets/images/homePage-Img/wslogo.PNG"
+            height="45"
+            class="logo-dark-mode"
+            alt=""
+          />
+        </a>
+        <!-- Logo End -->
+
+        <!-- End Logo container-->
+        <div class="menu-extras">
+          <div class="menu-item">
+            <!-- Mobile menu toggle-->
+            <a class="navbar-toggle" id="isToggle" onclick="toggleMenu()">
+              <div class="lines">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </a>
+            <!-- End mobile menu toggle-->
+          </div>
+        </div>
+
+        <div id="navigation">
+          <!-- Navigation Menu-->
+          <ul class="navigation-menu">
+            <li class="has-submenu parent-menu-item">
+              <a href="javascript:void(0)">Product</a
+              ><span class="menu-arrow"></span>
+              <ul class="submenu">
+                <li>
+                  <a href="product-tour.html" class="sub-menu-item"
+                    >Our Product Tour</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://app.whistlesentinel.com/org/test-organization"
+                    class="sub-menu-item"
+                    >Try Our Reporting Site</a
+                  >
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <a href="pricing.html">Pricing</a>
+            </li>
+
+            <li class="has-submenu parent-menu-item">
+              <a href="javascript:void(0)">Resource</a
+              ><span class="menu-arrow"></span>
+              <ul class="submenu">
+                <li>
+                  <a href="whistle-sentinel-india.html" class="sub-menu-item"
+                    >Whistle Sentinel - India</a
+                  >
+                </li>
+                <li>
+                  <a href="whistle-sentinel-eu.html" class="sub-menu-item"
+                    >Whistleblowing Laws - Europion Union</a
+                  >
+                </li>
+                <li>
+                  <a href="how-we-secure-your-data.html" class="sub-menu-item"
+                    >How We Secure Your Data</a
+                  >
+                </li>
+                <li>
+                  <a href="blog-details.html" class="sub-menu-item"
+                    >Blog Details</a
+                  >
+                </li>
+                <li>
+                  <a href="faq.html" class="sub-menu-item">FAQ</a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <a href="for-partners.html">For Partner's</a>
+            </li>
+
+            <li>
+              <a href="contact.html">Contact</a>
+            </li>
+
+            <li>
+              <a
+                href="https://calendly.com/whistlesentinel/demo-of-whistlesentinel"
+                class="btn btn-primary btn-sm"
+                >Book Demo</a
+              >
+            </li>
+          </ul>
+
+          <!--end navigation menu-->
+        </div>
+        <!--end navigation-->
+      </div>
+      <!--end container-->
+    </header>
+    <!--end header-->
+    <!-- Navbar End -->
+
+    <!-- Hero Start -->
+    <section class="bg-half-170 bg-light d-table w-100">
+      <div class="container">
+        <div class="mt-5 justify-content-center">
+          <div class="col-lg-12 text-center">
+            <div class="pages-heading">
+              <h4 class="title mb-0" id="page-title">Blogs</h4>
+            </div>
+          </div>
+          <!--end col-->
+        </div>
+        <!--end row-->
+
+        <div class="position-breadcrumb">
+          <nav aria-label="breadcrumb" class="d-inline-block">
+            <ul
+              class="breadcrumb rounded shadow mb-0 px-4 py-2"
+              id="breadcrumb"
+            >
+              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+              <li class="breadcrumb-item" id="breadcrumb-blogs">
+                <a href="blogs.html">Blogs</a>
+              </li>
+              <li
+                class="breadcrumb-item active"
+                aria-current="page"
+                id="breadcrumb-current"
+                style="display: none"
+              >
+                Blog Details
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!--end container-->
+    </section>
+    <!--end section-->
+    <!-- Hero End -->
+
+    <!-- Shape Start -->
+    <div class="position-relative">
+      <div class="shape overflow-hidden text-color-white">
+        <svg
+          viewBox="0 0 2880 48"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z"
+            fill="currentColor"
+          ></path>
+        </svg>
+      </div>
+    </div>
+    <!--Shape End-->
+
+    <!-- Section Start -->
+    <section class="section">
+      <div class="container">
+        <div class="row">
+          <!-- Dynamic blog content will be inserted here -->
+        </div>
+        <!-- PAGINATION START -->
+        <div class="col-12">
+          <ul class="pagination justify-content-center mb-0">
+            <li class="page-item">
+              <a
+                class="page-link"
+                href="javascript:void(0)"
+                aria-label="Previous"
+                id="prev"
+                >Prev</a
+              >
+            </li>
+            <li class="page-item" id="page1">
+              <a class="page-link" href="blogs.html">1</a>
+            </li>
+            <li class="page-item" id="page2">
+              <a class="page-link" href="blogs-2.html">2</a>
+            </li>
+            <li class="page-item">
+              <a
+                class="page-link"
+                href="javascript:void(0)"
+                aria-label="Next"
+                id="next"
+                >Next</a
+              >
+            </li>
+          </ul>
+        </div>
+        <!-- PAGINATION END -->
+      </div>
+      <!--end container-->
+    </section>
+    <!--end section-->
+
+    <div class="position-relative">
+      <div class="shape overflow-hidden text-footer">
+        <svg
+          viewBox="0 0 2880 48"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z"
+            fill="currentColor"
+          ></path>
+        </svg>
+      </div>
+    </div>
+    <!-- Footer Start -->
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="footer-py-60">
+              <div class="row">
+                <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
+                  <a href="#" class="logo-footer">
+                    <img
+                      src="assets/images/homePage-Img/wslogo.PNG"
+                      height="45"
+                      alt=""
+                    />
+                  </a>
+                  <div>
+                    <h5 class="footer-head pt-4">Contact Us</h5>
+                    <ul class="list-unstyled footer-list mt-4">
+                      <li><strong>Hotline:</strong></li>
+                      <li>
+                        <i class="uil uil-phone me-1"></i> Phone:
+                        <a href="tel: +91-9867303707">+919867303707</a>
+                      </li>
+                      <li>
+                        <i class="uil uil-envelope me-1"></i> Email:
+                        <a href="mailto: sales@whistlesentinel.com"
+                          >sales@whistlesentinel.com</a
+                        >
+                      </li>
+                      <li><strong>Address:</strong></li>
+                      <li>
+                        <i class="uil uil-map-marker me-1"></i> 310, Atlanta
+                        Estate, Nr. Virwani Industrial Estate, Goregaon-East,
+                        Mumbai, Maharashtra-400063
+                      </li>
+                      <li>
+                        <i class="uil uil-map-marker me-1"></i> 658 Lane Drive
+                        St, Riverside, California
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- Company Section -->
+                  <ul
+                    class="list-unstyled social-icon foot-social-icon mb-0 mt-4"
+                  >
+                    <li class="list-inline-item mb-0">
+                      <a
+                        href="https://www.facebook.com/WhistleSentinel"
+                        target="_blank"
+                        class="rounded"
+                        ><i
+                          class="uil uil-facebook-f align-middle"
+                          title="facebook"
+                        ></i
+                      ></a>
+                    </li>
+                    <li class="list-inline-item mb-0">
+                      <a
+                        href="https://www.instagram.com/digitalbusinesstechnology/"
+                        target="_blank"
+                        class="rounded"
+                        ><i
+                          class="uil uil-instagram align-middle"
+                          title="instagram"
+                        ></i
+                      ></a>
+                    </li>
+                    <li class="list-inline-item mb-0">
+                      <a
+                        href="https://twitter.com/Digital80088124"
+                        target="_blank"
+                        class="rounded"
+                        ><i
+                          class="uil uil-twitter align-middle"
+                          title="twitter"
+                        ></i
+                      ></a>
+                    </li>
+                    <li class="list-inline-item mb-0">
+                      <a
+                        href="mailto: sales@whistlesentinel.com"
+                        class="rounded"
+                        ><i
+                          class="uil uil-envelope align-middle"
+                          title="email"
+                        ></i
+                      ></a>
+                    </li>
+                    <li class="list-inline-item mb-0">
+                      <a
+                        href="https://wa.me/9867303707"
+                        class="rounded"
+                        target="_blank"
+                        ><i
+                          class="fab uil-whatsapp align-middle"
+                          title="WhatsApp"
+                        ></i
+                      ></a>
+                    </li>
+                  </ul>
+                  <!--end icon-->
+                </div>
+                <!--end col-->
+
+                <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                  <h5 class="footer-head">Company</h5>
+                  <ul class="list-unstyled footer-list mt-4">
+                    <li>
+                      <a href="about-us.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> About us</a
+                      >
+                    </li>
+                    <li>
+                      <a href="our-team.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Our Team</a
+                      >
+                    </li>
+                    <li>
+                      <a href="become-a-partner.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Become a
+                        Partner</a
+                      >
+                    </li>
+                    <li>
+                      <a href="contact.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Contact</a
+                      >
+                    </li>
+                    <li>
+                      <a href="blog-details.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Blogs</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <!--end col-->
+
+                <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                  <h5 class="footer-head">Support</h5>
+                  <ul class="list-unstyled footer-list mt-4">
+                    <li>
+                      <a href="how-we-secure-your-data.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Secure
+                        Whistleblowing</a
+                      >
+                    </li>
+                    <li>
+                      <a href="faq.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> FAQ
+                        Questions Policy</a
+                      >
+                    </li>
+                    <li>
+                      <a href="error.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Help
+                        Center</a
+                      >
+                    </li>
+                    <li>
+                      <a href="privacy-policy.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Privacy
+                        Policy</a
+                      >
+                    </li>
+                    <li>
+                      <a href="terms-conditions.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Terms &
+                        Conditions</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="assets/Document/DBTPL_Code of Conduct_Ver1.0.pdf"
+                        class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Code of
+                        Conduct</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <!--end col-->
+
+                <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                  <h5 class="footer-head">Follow Us</h5>
+                  <ul class="list-unstyled footer-list mt-4 pb-3">
+                    <li>
+                      <a
+                        href="https://www.linkedin.com/company/whistlesentinel/"
+                        class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> LinkedIn</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.facebook.com/WhistleSentinel"
+                        class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Facebook</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.youtube.com/@Whistlesentinel"
+                        class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> Youtube</a
+                      >
+                    </li>
+                    <li>
+                      <a href="article.html" class="text-foot"
+                        ><i class="uil uil-angle-right-b me-1"></i> News</a
+                      >
+                    </li>
+                  </ul>
+                  <div class="single-widget">
+                    <img
+                      class="img-fluid"
+                      src="/assets/images/homePage-Img/ISO-footer.png"
+                      alt="ISO certified"
+                    />
+                  </div>
+                </div>
+                <!--end col-->
+              </div>
+              <!--end row-->
+            </div>
+          </div>
+          <!--end col-->
+        </div>
+        <!--end row-->
+      </div>
+      <!--end container-->
+
+      <div class="footer-py-30 footer-bar">
+        <div class="container text-center">
+          <div class="row align-items-center">
+            <div class="col-sm-6">
+              <div class="text-sm-start">
+                <p class="mb-0">
+                  ©
+                  <script>
+                    document.write(new Date().getFullYear());
+                  </script>
+                  WhistleSentinel,
+                  <i class="mdi mdi-heart text-danger"></i>All
+                  <a
+                    href="https://shreethemes.in/"
+                    target="_blank"
+                    class="text-reset"
+                    >Rights Reserved</a
+                  >.
+                </p>
+              </div>
+            </div>
+            <!--end col-->
+
+            <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+              <div class="text-sm-end mb-0">
+                <a
+                  href="terms-conditions.html"
+                  class="text-decoration-none me-3"
+                  >Terms & Condition</a
+                >
+                <a href="privacy-policy.html" class="text-decoration-none"
+                  >Privacy Policy</a
+                >
+              </div>
+            </div>
+            <!--end col-->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end container-->
+      </div>
+    </footer>
+    <!--end footer-->
+    <!-- Footer End -->
+
+    <!-- Back to top -->
+    <a
+      href="#"
+      onclick="topFunction()"
+      id="back-to-top"
+      class="back-to-top fs-5"
+      ><i data-feather="arrow-up" class="fea icon-sm icons align-middle"></i
+    ></a>
+    <!-- Back to top -->
+
+    <!-- blogs javascript -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const blogsData = [
+          {
+            blog: 7,
+            title: "Unveiling Deception: Exploring Fraud in the IT Sector",
+            img: "assets/images/blog-details/blog7.png",
+            date: "25th June 2021",
+            likes: 33,
+            comments: 8,
+            link: "#",
+          },
+          {
+            blog: 8,
+            title:
+              "Why a 'Whistleblowing System' is Better Than Email as a Mechanism for Whistleblowing Framework",
+            img: "assets/images/blog-details/blog8.png",
+            date: "25th June 2021",
+            likes: 33,
+            comments: 8,
+            link: "#",
+          },
+          {
+            blog: 9,
+            title:
+              "Elevating Compliance: Unveiling The Crucial Role Of Whistleblowing Channels",
+            img: "assets/images/blog-details/blog9.jpg",
+            date: "25th June 2021",
+            likes: 33,
+            comments: 8,
+            link: "#",
+          },
+          {
+            blog: 10,
+            title:
+              "Unleashing The Force Of Whistleblowing: Safeguarding Ethical Standards In Start-Up Dynamics",
+            img: "assets/images/blog-details/blog10.jpg",
+            date: "25th June 2021",
+            likes: 33,
+            comments: 8,
+            link: "#",
+          },
+          {
+            blog: 11,
+            title:
+              "Unveiling The Virtues Of Whistleblowing: A Closer Look At Workplace Benefits",
+            img: "assets/images/blog-details/blog11.jpg",
+            date: "25th June 2021",
+            likes: 33,
+            comments: 8,
+            link: "#",
+          },
+        ];
+
+        const blogContainer = document.querySelector(".row");
+        const sectionContainer = document.querySelector(".section");
+        const pageTitle = document.getElementById("page-title");
+        const breadcrumb = document.getElementById("breadcrumb");
+        const breadcrumbBlogs = document.getElementById("breadcrumb-blogs");
+
+        function loadBlogsList() {
+          blogContainer.innerHTML = ""; // Clear existing content
+
+          blogsData.forEach((blog) => {
+            const blogCol = document.createElement("div");
+            blogCol.className = "col-lg-4 col-md-6 mb-4 pb-2";
+
+            blogCol.innerHTML = `
+              <div class="card blog blog-primary rounded border-0 shadow overflow-hidden">
+                <div class="position-relative">
+                  <img src="${blog.img}" class="card-img-top" alt="...">
+                  <div class="overlay rounded-top"></div>
+                </div>
+                <div class="card-body content">
+                  <h5>
+                    <a href="javascript:void(0)" class="card-title title text-dark">${blog.title}</a>
+                  </h5>
+                  <div class="post-meta d-flex justify-content-between mt-3">
+                    <ul class="list-unstyled mb-0">
+                      <li class="list-inline-item me-2 mb-0">
+                        <a href="javascript:void(0)" class="text-muted like"><i class="uil uil-heart me-1"></i>${blog.likes}</a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a href="javascript:void(0)" class="text-muted comments"><i class="uil uil-comment me-1"></i>${blog.comments}</a>
+                      </li>
+                    </ul>
+                    <a href="javascript:void(0)" class="text-muted readmore read-more-link" data-blog-id="${blog.blog}">Read More <i class="uil uil-angle-right-b align-middle"></i></a>
+                  </div>
+                </div>
+                <div class="author">
+                  <small class="date"><i class="uil uil-calendar-alt"></i> ${blog.date}</small>
+                </div>
+              </div>
+            `;
+
+            blogContainer.appendChild(blogCol);
+          });
+
+          // Update the page title and breadcrumb
+          pageTitle.innerText = "Blogs";
+          const breadcrumbCurrent =
+            document.getElementById("breadcrumb-current");
+          if (breadcrumbCurrent) {
+            breadcrumbCurrent.remove(); // Remove the existing "Blog Details" breadcrumb if it exists
+          }
+
+          // Update the history state
+          history.pushState({ page: "blogList" }, "", "#blogs");
+        }
+
+        function loadBlogDetails(blogId) {
+          fetch("blog.json")
+            .then((response) => response.json())
+            .then((data) => {
+              const selectedBlog = data.find((blog) => blog.blog === blogId);
+              if (selectedBlog) {
+                sectionContainer.innerHTML = `
+                  <div class="container">
+                    <div class="row justify-content-center">
+                      <div class="col-lg-10">
+                        <div class="row justify-content-center">
+                          <div class="col-md-10">
+                            <h4 class="title mb-3">${selectedBlog.title}</h4>
+                            <p class="text-muted">${selectedBlog.about}</p>
+                            <ul class="list-unstyled d-flex justify-content-between mt-4">
+                              <li class="list-inline-item user me-2"><a href="javascript:void(0)" class="text-muted"><i class="uil uil-user text-dark"></i> sales@whistlesentinel.com</a></li>
+                              <li class="list-inline-item date text-muted"><i class="uil uil-calendar-alt text-dark"></i> ${
+                                selectedBlog.date
+                              }</li>
+                            </ul>
+                            <img src="${
+                              selectedBlog.img
+                            }" class="img-fluid rounded-md shadow" alt="">
+                            <h5 class="mt-4">${selectedBlog.title}</h5>
+                            ${
+                              selectedBlog.conclusion1
+                                ? `<p class="text-muted">${selectedBlog.conclusion1}</p>`
+                                : ""
+                            }
+                            ${
+                              selectedBlog.conclusion2
+                                ? `<p class="text-muted">${selectedBlog.conclusion2}</p>`
+                                : ""
+                            }
+                            ${selectedBlog.content
+                              .map(
+                                (item) =>
+                                  `<h6 class="mt-4">${item.heading}</h6><p class="text-muted">${item.description}</p>`
+                              )
+                              .join("")}
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>`;
+
+                // Update the page title and breadcrumb
+                pageTitle.innerText = "Blog Details";
+
+                // Dynamically add the "Blog Details" breadcrumb
+                let breadcrumbCurrent = document.createElement("li");
+                breadcrumbCurrent.className = "breadcrumb-item active";
+                breadcrumbCurrent.id = "breadcrumb-current";
+                breadcrumbCurrent.setAttribute("aria-current", "page");
+                breadcrumbCurrent.innerText = "Blog Details";
+                breadcrumb.appendChild(breadcrumbCurrent);
+
+                // Update the history state
+                history.pushState(
+                  { page: "blogDetails", blogId: blogId },
+                  "",
+                  `#blog-${blogId}`
+                );
+              }
+            })
+            .catch((error) => console.error("Error fetching JSON:", error));
+        }
+
+        blogContainer.addEventListener("click", function (event) {
+          if (event.target.classList.contains("readmore")) {
+            const blogId = event.target.dataset.blogId;
+            loadBlogDetails(parseInt(blogId));
+          }
+        });
+
+        // Handle back and forward navigation
+        window.addEventListener("popstate", function (event) {
+          location.reload();
+        });
+
+        // Initial load of blogs list or details based on the URL hash
+        if (location.hash.startsWith("#blog-")) {
+          const blogId = parseInt(location.hash.split("-")[1]);
+          loadBlogDetails(blogId);
+        } else {
+          loadBlogsList();
+        }
+      });
+    </script>
+    <!-- blog script end -->
+    <!-- pagination Javascript -->
+    <script src="pagination.js"></script>
+    <!-- JAVASCRIPT -->
+    <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- SLIDER -->
+    <script src="assets/libs/tiny-slider/min/tiny-slider.js"></script>
+    <!-- Main Js -->
+    <script src="assets/libs/feather-icons/feather.min.js"></script>
+    <script src="assets/js/plugins.init.js"></script>
+    <!--Note: All init js like tiny slider, counter, countdown, maintenance, lightbox, gallery, swiper slider, aos animation etc.-->
+    <script src="assets/js/app.js"></script>
+    <!--Note: All important javascript like page loader, menu, sticky menu, menu-toggler, one page menu etc. -->
+  </body>
+</html>

@@ -1,6 +1,7 @@
 [
   {
     "blog": 1,
+    "date": "11th June 2024",
     "title": "Unveiling the Curtain: The Many Faces of Fraud in the Retail Sector",
     "img": "assets/images/blog-details/blog1.png",
     "about": "In the bustling world of retail, where transactions are swift and goods change hands constantly, the risk of fraudulent activities lurks in the shadows. From small boutique stores to large chain outlets, no retailer is immune to the threat of deceit from within and without. Let’s delve into the various types of fraud that plague the retail sector and how whistleblowers play a crucial role in unveiling these nefarious schemes.",
@@ -59,6 +60,7 @@
   },
   {
     "blog": 2,
+    "date": "11th June 2024",
     "title": "Unveiling the Shadows: Understanding Fraud in the Banking Sector",
     "img": "assets/images/blog-details/blog2.png",
     "about": "In the intricate web of financial transactions, the banking sector stands as a critical pillar of trust and security. However, lurking beneath the surface are various forms of fraud that threaten the integrity of financial institutions and erode the trust of customers. Let’s explore the multifaceted landscape of fraud in the banking sector and how whistleblowers play a pivotal role in combating these illicit activities.",
@@ -116,6 +118,7 @@
   },
   {
     "blog": 3,
+    "date": "11th June 2024",
     "title": "Unveiling Deception: Exploring Fraud in the Jewellery Sector",
     "img": "assets/images/blog-details/blog3.png",
     "about": "In the world of glimmering gemstones and exquisite craftsmanship, the jewellery sector stands as a symbol of luxury and beauty. However, beneath the sparkle lies a darker reality of fraud and deception that threatens the integrity of this esteemed industry. Let's delve into the various types of fraud plaguing the jewellery sector and how whistleblowers can play a crucial role in safeguarding consumers and upholding industry standards.",
@@ -181,6 +184,7 @@
   },
   {
     "blog": 4,
+    "date": "11th June 2024",
     "title": "Unmasking Deception: Understanding Fraud in the Manufacturing Sector",
     "img": "assets/images/blog-details/blog4.png",
     "about": "In the bustling realm of manufacturing, where innovation meets production, the risk of fraudulent activities looms large, threatening the integrity and sustainability of businesses. From financial malfeasance to breaches in cybersecurity, let's unravel the diverse array of frauds plaguing the manufacturing sector and explore the role of whistleblowing in mitigating these risks.",
@@ -262,6 +266,7 @@
   },
   {
     "blog": 5,
+    "date": "11th June 2024",
     "title": "Unveiling Fraud in Healthcare: Safeguarding Patient Trust",
     "img": "assets/images/blog-details/blog5.png",
     "about": "",
@@ -303,6 +308,7 @@
   },
   {
     "blog": 6,
+    "date": "11th June 2024",
     "title": "Exposing Deception: Unravelling Fraud in the Insurance Sector",
     "img": "assets/images/blog-details/blog6.png",
     "about": "In the complex landscape of insurance, where trust and reliability are paramount, fraudulent activities pose a significant threat to the integrity of the industry and the well-being of policyholders. From premium theft to false advertising, let's delve into the various forms of fraud plaguing the insurance sector and explore the pivotal role of whistleblowing in combating such malpractices.",
@@ -344,6 +350,7 @@
   },
   {
     "blog": 7,
+    "date": "11th June 2024",
     "title": "Unveiling Deception: Exploring Fraud in the IT Sector",
     "img": "assets/images/blog-details/blog7.png",
     "about": "In the fast-paced world of technology, where innovation and efficiency reign supreme, fraudulent activities can pose significant threats to the integrity and reputation of IT organizations. From corruption to cybersecurity breaches, let's delve into the various forms of fraud plaguing the IT sector and explore the pivotal role of whistleblowing in combating such malpractices.",
@@ -393,6 +400,7 @@
   },
   {
     "blog": 8,
+    "date": "11th June 2024",
     "title": "Why a 'Whistleblowing System' is Better Than Email as a Mechanism for Whistleblowing Framework",
     "img": "assets/images/blog-details/blog8.png",
     "about": "A whistleblowing system offers several advantages over using email as a reporting mechanism for addressing serious concerns within an organization:",
@@ -422,6 +430,7 @@
   },
   {
     "blog": 9,
+    "date": "11th June 2024",
     "title": "Elevating Compliance: Unveiling The Crucial Role Of Whistleblowing Channels",
     "img": "assets/images/blog-details/blog9.jpg",
     "about": "Ensuring corporate compliance is a cornerstone of organizational integrity. It not only safeguards against unlawful activities but also nurtures a healthy internal environment by preventing issues like discrimination or harassment. Remarkably, this is achievable without compromising the confidentiality of personal data, thanks to the introduction of whistleblowing channels.",
@@ -452,6 +461,7 @@
   },
   {
     "blog": 10,
+    "date": "11th June 2024",
     "title": "Unleashing The Force Of Whistleblowing: Safeguarding Ethical Standards In Start-Up Dynamics",
     "img": "assets/images/blog-details/blog10.jpg",
     "about": "The contemporary business landscape has witnessed an upsurge in start-up enterprises, reshaping industries and propelling the trajectory of commerce into uncharted territories. Amidst the boundless potential for growth and innovation, these budding ventures grapple with distinctive challenges, and chief among them is the imperative to uphold ethical standards in a dynamic and often tumultuous start-up milieu. In this discourse, we shall explore the paramount importance of prioritizing whistleblowing in start-up entities, dissecting the manifold benefits it confers, and contemplating the potential ramifications of neglecting this pivotal facet.",
@@ -486,6 +496,7 @@
   },
   {
     "blog": 11,
+    "date": "11th June 2024",
     "title": "Unveiling The Virtues Of Whistleblowing: A Closer Look At Workplace Benefits",
     "img": "assets/images/blog-details/blog11.jpg",
     "about": "Whistleblowers stand as societal watchdogs, illuminating the shadows of corporate misdeeds and governmental malpractice. However, their impact extends beyond societal accountability; within organizations, whistleblowers emerge as invaluable assets. By resolving internal issues before they cascade into media fodder, whistleblowers become catalysts for maintaining organizational integrity and minimizing the specter of negative publicity. In this exploration, we delve into five pivotal benefits of whistleblowing in the workplace:",
